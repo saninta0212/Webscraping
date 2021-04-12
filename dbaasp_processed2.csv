@@ -1,0 +1,498 @@
+ID,Name,Sequence,Target,Activity Measure,Peptide Concentration,Unit,Lower Concentration,Processed Concentration
+11,"Cathelicidin-1, CATH-1, Fowlicidin-1",RVKRVWPLVIRTVIAGYNLYRAIKKK,Human erythrocytes,50% Hemolysis,6,µM,6.0,6.0
+15,Histatin 5,DSHAKRHHGYKRKFHEKHHSHRGY,Human erythrocytes,50% Hemolysis,49±9.0,µM,40.0,40.0
+102,Dermaseptin S4 [M4K][N20K] ,ALWKTLLKKVLKAAAKAALKAVLVGANA,Human erythrocytes,50% Hemolysis,0.5±0.2,µM,0.3,0.3
+146,LL-37 fragment KR-12,KRIVQRIKDFLR,Human erythrocytes,50% Hemolysis,>80,µM,80.0,80.0
+160,Tritrpticin,VRRFPWWWPFLRR,Human erythrocytes,50% Hemolysis,380,µg/ml,380.0,199.8
+167,"CEMA, MBI-28",KWKLFKKIGIGAVLKVLTTGLPALKLTK,Human erythrocytes,50% Hemolysis,50,µg/ml,50.0,16.31
+360,Magainin-2 	 ,GIGKFLHSAKKFGKAFVGEIMNS,Human erythrocytes,50% Hemolysis,19±1.0,µM,18.0,18.0
+488,dhvar4,KRLFKKLLFSLRKY,Human erythrocytes,50% Hemolysis,42±12,µM,30.0,30.0
+496,Dhvar2,KRLFKELLFSLRKY,Human erythrocytes,50% Hemolysis,89±12,µM,77.0,77.0
+497,Dhvar3,KRLFKKLKFSLRKY,Human erythrocytes,50% Hemolysis,51±21,µM,30.0,30.0
+498,dhvar5,LLLFLLKKRKKRKY,Human erythrocytes,50% Hemolysis,58±23,µM,35.0,35.0
+536,"M-zodatoxin-Lt2a, Latarcin-2a, Ltc-2a ",GLFGKLIKKFGRKAISYAVKKARGKH,Human erythrocytes,50% Hemolysis,6,µM,6.0,6.0
+606,Dermaseptin S4,ALWMTLLKKVLKAAAKAALNAVLVGANA,Human erythrocytes,50% Hemolysis,1.4±0.2,µM,1.2,1.2
+607,Dermaseptin S4 [N20D],ALWMTLLKKVLKAAAKAALDAVLVGANA,Human erythrocytes,50% Hemolysis,1.2±0.1,µM,1.1,1.1
+608,Dermaseptin S4 [M4D] ,ALWDTLLKKVLKAAAKAALNAVLVGANA,Human erythrocytes,50% Hemolysis,2.3±0.3,µM,2.0,2.0
+609,Dermaseptin S4 [M4D][N20D],ALWDTLLKKVLKAAAKAALDAVLVGANA,Human erythrocytes,50% Hemolysis,5±1,µM,4.0,4.0
+610,Dermaseptin S4 [N20K] ,ALWMTLLKKVLKAAAKAALKAVLVGANA,Human erythrocytes,50% Hemolysis,1.2±0.4,µM,0.8,0.8
+611,Dermaseptin S4 [M4K] ,ALWKTLLKKVLKAAAKAALNAVLVGANA,Human erythrocytes,50% Hemolysis,2±0.1,µM,1.9,1.9
+612,Dermaseptin S4 (1-20) ,ALWMTLLKKVLKAAAKAALN,Human erythrocytes,50% Hemolysis,5±1,µM,4.0,4.0
+613,Dermaseptin S4 (1-16),ALWMTLLKKVLKAAAK,Human erythrocytes,50% Hemolysis,23±1,µM,22.0,22.0
+614,Dermaseptin S4 (1-12),ALWMTLLKKVLK,Human erythrocytes,50% Hemolysis,100,µM,100.0,100.0
+615,Dermaseptin S4 (5-16),TLLKKVLKAAAK,Human erythrocytes,50% Hemolysis,>80,µM,80.0,80.0
+616,Dermaseptin S4 (5-28),TLLKKVLKAAAKAALNAVLVGANA,Human erythrocytes,50% Hemolysis,16.5±0.5,µM,16.0,16.0
+617,Dermaseptin S4 (9-28),KVLKAAAKAALNAVLVGANA,Human erythrocytes,50% Hemolysis,24±1,µM,23.0,23.0
+618,Dermaseptin S4 (13-28),AAAKAALNAVLVGANA,Human erythrocytes,50% Hemolysis,40,µM,40.0,40.0
+619,Dermaseptin S4 (1-16)[M4K],ALWKTLLKKVLKAAAK,Human erythrocytes,50% Hemolysis,57±3,µM,54.0,54.0
+646,Gaegurin 5 (1-11)[G3W],FLWALFKVASK,Human erythrocytes,50% Hemolysis,100,µg/ml,100.0,76.35
+726,Dhvar1,KRLFKELKFSLRKY,Human erythrocytes,50% Hemolysis,34±24,µM,10.0,10.0
+727,"Negative control peptide dcysSA, Cystatin-SA (1-14)",WSPQEEDRIIEGGI,Human erythrocytes,50% Hemolysis,>123,µM,123.0,123.0
+734,Kalata-B1 ,GLPVCGETCVGGTCNTPGCTCSWPVCTRN,Human erythrocytes,50% Hemolysis,26,µM,26.0,26.0
+755,"Circulin-A, CIRA",GIPCGESCVWIPCISAALGCSCKNKVCYRN,Human erythrocytes,50% Hemolysis,1020,µM,1020.0,1020.0
+756,"Cyclopsychotride-A, CPT",SIPCGESCVFIPCTVTALLGCSCKSKVCYKN,Human erythrocytes,50% Hemolysis,405,µM,405.0,405.0
+757,"Circulin-B, CIRB",GVIPCGESCVFIPCISTLLGCSCKNKVCYRN,Human erythrocytes,50% Hemolysis,550,µM,550.0,550.0
+764,"Human Cathelicidin, CAP-18, hCAP-18, LL-37",LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES,Human erythrocytes,50% Hemolysis,43.5,µg/ml,43.0,9.568
+773,"Cathelicidin-1 (1-15), CATH-1 (1-15), Fowlicidin-1 (1-15)",RVKRVWPLVIRTVIA,Human erythrocytes,50% Hemolysis,>443,µM,443.0,443.0
+774,"Cathelicidin-1 (1-23), CATH-1 (1-23), Fowlicidin-1 (1-23)",RVKRVWPLVIRTVIAGYNLYRAI,Human erythrocytes,50% Hemolysis,38,µM,38.0,38.0
+775,"Cathelicidin-1 (8-26), CATH-1 (8-26), Fowlicidin-1 (8-26)",LVIRTVIAGYNLYRAIKKK,Human erythrocytes,50% Hemolysis,>360,µM,360.0,360.0
+776,"Cathelicidin-1 (5-26), CATH-1 (5-26), Fowlicidin-1 (5-26)",VWPLVIRTVIAGYNLYRAIKKK,Human erythrocytes,50% Hemolysis,11,µM,11.0,11.0
+777,"Cathelicidin-1 [G16L], CATH-1 [G16L], Fowlicidin-1 [G16L]",RVKRVWPLVIRTVIALYNLYRAIKKK,Human erythrocytes,50% Hemolysis,3,µM,3.0,3.0
+778,Cathelicidin-1/ CATH-1 / Fowlicidin-1 [P7K][T12L][I14K][G16L][N18K],RVKRVWKLVIRLVKALYKLYRAIKKK,Human erythrocytes,50% Hemolysis,1,µM,1.0,1.0
+948,"Pandinin-2, Pin2, Non-disulfide-bridged peptide 4.1, NDBP-4.1",FWGALAKGALKLIPSLFSSFSKKD,Human erythrocytes,50% Hemolysis,3.3,µM,3.0,3.0
+952,Tritrpticin (2-13)[L11Del],RRFPWWWPFRR,Human erythrocytes,50% Hemolysis,142.2,µM,142.0,142.0
+953,"Tritrpticin (2-13)[R1,2,12,13K][L11Del]",KKFPWWWPFKK,Human erythrocytes,50% Hemolysis,>200,µM,200.0,200.0
+964,"Parabutoporin, PP, Non-disulfide-bridged peptide 3.2, NDBP-3.2",FKLGSFLKKAWKSKLAKKLRAKGKEMLKDYAKGLLEGGSEEVPGQ,Human erythrocytes,50% Hemolysis,38,µM,38.0,38.0
+968,"M-zodatoxin-Lt2a [I7Q], Latarcin-2a [I7Q], Ltc-2a [I7Q]",GLFGKLQKKFGRKAISYAVKKARGKH,Human erythrocytes,50% Hemolysis,>36,µM,36.0,36.0
+969,"M-zodatoxin-Lt2a [F10K], Latarcin-2a [F10K], Ltc-2a [F10K]",GLFGKLIKKKGRKAISYAVKKARGKH,Human erythrocytes,50% Hemolysis,>36,µM,36.0,36.0
+970,"M-zodatoxin-Lt2a [G11L], Latarcin-2a [G11L], Ltc-2a [G11L]",GLFGKLIKKFLRKAISYAVKKARGKH,Human erythrocytes,50% Hemolysis,3,µM,3.0,3.0
+971,"M-zodatoxin-Lt2a (4-26), Latarcin-2a (4-26), Ltc-2a (4-26)",GKLIKKFGRKAISYAVKKARGKH,Human erythrocytes,50% Hemolysis,>36,µM,36.0,36.0
+991,"Dermaseptin-1, DS I, Dermaseptin-S1, DS1",ALWKTMLKKLGTMALHAGKAALGAAADTISQGTQ,Human erythrocytes,50% Hemolysis,>100,µg/ml,100.0,28.94
+1000,"Pleurocidin-like peptide GC3.2 (23-40), NRC-18",GWKKWFTKGERLSQRHFA,Human erythrocytes,50% Hemolysis,>256,µg/ml,256.0,113.1
+1002,"Pleurocidin-like peptide Hb18 (22-47), NRC-20",GFLGILFHGVHHGRKKALHMNSERRS,Human erythrocytes,50% Hemolysis,>256,µg/ml,256.0,85.73
+1006,"M-ctenitoxin-Cs1a, Cupiennin-1a* ",GFGALFKFLAKKVAKTVAKQAAKQGAKYVVNKQME,Human erythrocytes,50% Hemolysis,20.5,µM,20.0,20.0
+1008,"M-ctenitoxin-Cs1d, Cupiennin-1d* ",GFGSLFKFLAKKVAKTVAKQAAKQGAKYVANKHME,Human erythrocytes,50% Hemolysis,14.5,µM,14.0,14.0
+1010,"Ranatuerin-1, Ranatuerin-1CBa ",SMLSVLKNLGKVGLGFVACKINKQC,Human erythrocytes,50% Hemolysis,140,µM,140.0,140.0
+1098,"Dermaseptin-3, DS III, Dermaseptin-S3, DS3",ALWKNMLKGIGKLAGKAALGAVKKLVGAES,Human erythrocytes,50% Hemolysis,50,µM,50.0,50.0
+1238,Cecropin-D-like peptide,ENFFKEIERAGQRIRDAIISAAPAVETLAQAQKIIKGGD,Human erythrocytes,50% Hemolysis,>115,µM,115.0,115.0
+1417,"HB71, Shiva 10 (1-18)",FAKKLAKKLKKLAKKLAK,Human erythrocytes,50% Hemolysis,>1000,µg/ml,1000.0,486.3
+1435,"Pleurocidin-like peptide GC3.8 (23-45), NRC-17",GWKKWLRKGAKHLGQAAIKGLAS,Human erythrocytes,50% Hemolysis,>256,µg/ml,256.0,102.2
+1468,"Brevinin-1DYa, Amurin-2c",FLSLALAALPKFLCLVFKKC,Human erythrocytes,50% Hemolysis,<5,µM,5.0,5.0
+1469,"Brevinin-1DYb, Amurin-2",FLSLALAALPKLFCLIFKKC,Human erythrocytes,50% Hemolysis,<5,µM,5.0,5.0
+1470,Brevinin-1DYc,FLPLLLAGLPKLLCLFFKKC,Human erythrocytes,50% Hemolysis,<5,µM,5.0,5.0
+1477,"Brevinin-1DYe, Brevinin-1CEa",FLIGMTQGLICLITRKC,Human erythrocytes,50% Hemolysis,48,µM,48.0,48.0
+1478,"Brevinin-2DYc, Brevinin-2RNa",GLFDVVKGVLKGVGKNVAGSLLEQLKCKLSGGC,Human erythrocytes,50% Hemolysis,65.2±7.6,µM,57.6,57.6
+1639,"Odorranin-HP, Odorranain-W-RA1",GLLRASSVWGRKYYVDLAGCAKA,Human erythrocytes,50% Hemolysis,500,µM,500.0,500.0
+1738,Cathelicidin-BF-15,VKRFKKFFRKLKKSV,Human erythrocytes,50% Hemolysis,>320,µg/ml,320.0,165.0
+1740,Cycloviolacin O2,GIPCGESCVWIPCISSAIGCSCKSKVCYRN,Human erythrocytes,50% Hemolysis,5.1±0.1,µM,5.0,5.0
+1771,Varv peptide F,GVPICGETCTLGTCYTAGCSCSWPVCTRN,Human erythrocytes,50% Hemolysis,33.04,µM,33.0,33.0
+1804,"Ranatuerin-2La, Ranatuerin-2PRa",GILDSFKGVAKGVAKDLAGKLLDKLKCKITGC,Human erythrocytes,50% Hemolysis,>100,µM,100.0,100.0
+1805,"Ranatuerin-2Lb, Ranatuerin-2PRd",GILSSIKGVAKGVAKNVAAQLLDTLKCKITGC,Human erythrocytes,50% Hemolysis,>100,µM,100.0,100.0
+1886,Esculentin-2CG1,SLFSIFKTAAKFVGKNLLKQAGKAGLETLACKAKNEC,Human erythrocytes,50% Hemolysis,75,µM,75.0,75.0
+1887,Palustrin-2CG1,GLWNTIKEAGKKFAINVLDKIRCGIAGGCKT,Human erythrocytes,50% Hemolysis,75,µM,75.0,75.0
+1888,Brevinin-1CG1,FLSTALKVAANVVPTLFCKITKKC,Human erythrocytes,50% Hemolysis,150,µM,150.0,150.0
+1889,Brevinin-1CG2,FLPIVAGLAANFLPKIVCKITKKC,Human erythrocytes,50% Hemolysis,19,µM,19.0,19.0
+1890,Brevinin-1CG3,FLSTLLNVASNVVPTLICKITKKC,Human erythrocytes,50% Hemolysis,19,µM,19.0,19.0
+1891,Brevinin-1CG4,FLSTLLNVASKVVPTLFCKITKKC,Human erythrocytes,50% Hemolysis,37.5,µM,37.0,37.0
+1892,Brevinin-1CG5,FLPMLAGLAANFLPKIVCKITKKC,Human erythrocytes,50% Hemolysis,19,µM,19.0,19.0
+1893,Brevinin-2CG1,GILDKLKEFGISAARGVAQSLLNTASCKLAKTC,Human erythrocytes,50% Hemolysis,75,µM,75.0,75.0
+1970,Brevinin-2LTa,GAFGDLLKGVAKEAGMKLLNMAQCKLSGKC,Human erythrocytes,50% Hemolysis,520,µM,520.0,520.0
+1971,Brevinin-2LTb,SILDKIKNVALGVARGAGTGILKALLCKLDKSC,Human erythrocytes,50% Hemolysis,480,µM,480.0,480.0
+1974,Brevinin-2LTc,GVLDTFKDVAIGVAKGAGTGVLKALLCKLDKSC,Human erythrocytes,50% Hemolysis,>480,µM,480.0,480.0
+1975,Esculentin-1LTa,RISFKKGKGSWIKNGLIKGIKGLGKEISLDVIRTGIDIAGCKIKGEC,Human erythrocytes,50% Hemolysis,>480,µM,480.0,480.0
+1976,Esculentin-2LTa,GIFSLFKAGAKFFGKHLLKQAGKAGAEHLACKATNQC,Human erythrocytes,50% Hemolysis,>600,µM,600.0,600.0
+1977,Palustrin-2LTa,SLWENFKNAGKQFILNILDKIRCRVAGGCRT,Human erythrocytes,50% Hemolysis,220,µM,220.0,220.0
+2007,"Cytoinsectotoxin-1a, M-zodatoxin-Lt8a",GFFGNTWKKIKGKADKIMLKKAVKIMVKKEGISKEEAQAKVDAMSKKQIRLYLLKYYGKKALQKASEKL,Human erythrocytes,50% Hemolysis,6,µM,6.0,6.0
+2025,Arenicin-1,RWCVYAYVRVRGVLVRYRRCW,Human erythrocytes,50% Hemolysis,66.3,µM,66.0,66.0
+2027,"R/K-Ar-1, Arenicin-1 [R1,9,11,16,18,19K]",KWCVYAYVKVKGVLVKYKKCW,Human erythrocytes,50% Hemolysis,63,µM,63.0,63.0
+2193,Esculentin-IGra,GLFSKFAGKGIKNLIFKGVKHIGKEVGMDVIRTGIDVAGCKIKGEC,Human erythrocytes,50% Hemolysis,210,µM,210.0,210.0
+2194,"Brevinin -2 Gra, Brevinin-2E-OG6, Brevinin-2JD",GLLDTFKNLALNAAKSAGVSVLNSLSCKLSKTC,Human erythrocytes,50% Hemolysis,140,µM,140.0,140.0
+2196,"Brevinin-2 Grc, Esculentin-2-OG10, Esculentin-2-OA3, Esculentin-2JDa",GLFTLIKGAAKLIGKTVAKEAGKTGLELMACKITNQC,Human erythrocytes,50% Hemolysis,100,µM,100.0,100.0
+2197,"Nigrocin-2GRa, Grahamin-1",GLLSGILGAGKNIVCGLSGLC,Human erythrocytes,50% Hemolysis,295,µM,295.0,295.0
+2198,"Nigrocin-2GRb, Odorranain-H1",GLFGKILGVGKKVLCGLSGMC,Human erythrocytes,50% Hemolysis,40,µM,40.0,40.0
+2199,"OdC8, Brevinin-2 Grb, Odorranain-C8",GVLGTVKNLLIGAGKSAAQSVLKTLSCKLSNDC,Human erythrocytes,50% Hemolysis,180,µM,180.0,180.0
+2200,Ranatuerin-2CSa,GILSSFKGVAKGVAKDLAGKLLETLKCKITGC,Human erythrocytes,50% Hemolysis,160,µM,160.0,160.0
+2201,Brevinin-1CSa,FLPILAGLAAKIVPKLFCLATKKC,Human erythrocytes,50% Hemolysis,5,µM,5.0,5.0
+2210,Brevinin-2TSa,GIMSLFKGVLKTAGKHVAGSLVDQLKCKITGGC,Human erythrocytes,50% Hemolysis,100,µM,100.0,100.0
+2256,Andropin,VFIDILDKMENAIHKAAQAGIG,Human erythrocytes,50% Hemolysis,>100,µg/ml,100.0,42.46
+2257,Cecropin A [V28W],KWKLFKKIEKVGQNIRDGIIKAGPAVAWVGQATQIAK,Human erythrocytes,50% Hemolysis,>100,µg/ml,100.0,24.43
+2258,Cecropin B [M11N] ,KWKVFKKIEKNGRNIRNGIVKAGPAIAVLGEAKAL,Human erythrocytes,50% Hemolysis,>100,µg/ml,100.0,26.18
+2259,"Cecropin P1 [del I26,G29]",SWLSKTAKKLENSAKKRISEGIAIAQGPR,Human erythrocytes,50% Hemolysis,>100,µg/ml,100.0,31.55
+2260,"Melittin [7K,8V,9L Del]",GIGAVLTTGLPALISWIKRKRQQ,Human erythrocytes,50% Hemolysis,16.28±0.17,µg/ml,16.11,6.424
+2261,Tachyplesin-1,KWCFRVCYRGICYRRCR,Human erythrocytes,50% Hemolysis,>100,µg/ml,100.0,44.07
+2262,Pr-1,PRRRRSSSRP,Human erythrocytes,50% Hemolysis,>100,µg/ml,100.0,79.71
+2263,Pr-2,VRRRRRPR,Human erythrocytes,50% Hemolysis,>100,µg/ml,100.0,86.85
+2264,"Protamine (19-32), Pr-3",VSRRRRRRGGRRRR,Human erythrocytes,50% Hemolysis,69.89±0.08,µg/ml,69.81,37.13
+2281,Brevinin-2GU,GVIIDTLKGAAKTVAAELLRKAHCKLTNSC,Human erythrocytes,50% Hemolysis,700,µM,700.0,700.0
+2284,Magainin-SE1,GLKEVLHSTKKFAKGFITGLTGQ,Human erythrocytes,50% Hemolysis,>160,µM,160.0,160.0
+2288,XPF-SE2,GLASTIGSLLGKFAKGGAQAFLQPK,Human erythrocytes,50% Hemolysis,>160,µM,160.0,160.0
+2289,XPF-SE3,GFWTTAAEGLKKFAKAGLASILNPK,Human erythrocytes,50% Hemolysis,105,µM,105.0,105.0
+2290,XPF-SE4,GVWTTILGGLKKFAKGGLEALTNPK,Human erythrocytes,50% Hemolysis,60,µM,60.0,60.0
+2291,CPF-SE1,GFLGPLLKLGLKGVAKVIPHLIPSRQQ,Human erythrocytes,50% Hemolysis,50,µM,50.0,50.0
+2292,CPF-SE2,GFLGPLLKLGLKGAAKLLPQLLPSRQQ,Human erythrocytes,50% Hemolysis,50,µM,50.0,50.0
+2302,Ascaphin-8 free acid form,GFKDLLKGAAKALVKTVLF,Human erythrocytes,50% Hemolysis,>200,µM,200.0,200.0
+2303,Ascaphin-1 free acid form,GFRDVLKGAAKAFVKTVAGHIAN,Human erythrocytes,50% Hemolysis,>200,µM,200.0,200.0
+2305,Ascaphin-5,GIKDWIKGAAKKLIKTVASHIANQ,Human erythrocytes,50% Hemolysis,>200,µM,200.0,200.0
+2367,"Lycotoxin I, M-lycotoxin-Hc1a",IWLTALKFLGKHAAKHLAKQQLSKL,Human erythrocytes,50% Hemolysis,125,µM,125.0,125.0
+2386,"Ranatuerin-1[Ser-19, Ser-25]",SMLSVLKNLGKVGLGFVASKINKQS,Human erythrocytes,50% Hemolysis,>200,µM,200.0,200.0
+2387,Ranatuerin-1 (9-25),CKINKQC,Human erythrocytes,50% Hemolysis,>200,µM,200.0,200.0
+2388,Ranatuerin-1[Ala-4],SMLAVLKNLGKVGLGFVACKINKQC,Human erythrocytes,50% Hemolysis,>200,µM,200.0,200.0
+2389,Ranatuerin-1 [Gly-4],SMLGVLKNLGKVGLGFVACKINKQC,Human erythrocytes,50% Hemolysis,>200,µM,200.0,200.0
+2390,Ranatuerin-1[Arg-7],SMLSVLRNLGKVGLGFVACKINKQC,Human erythrocytes,50% Hemolysis,>200,µM,200.0,200.0
+2391,Ranatuerin-1[Arg-11],SMLSVLKNLGRVGLGFVACKINKQC,Human erythrocytes,50% Hemolysis,>200,µM,200.0,200.0
+2392,Ranatuerin-1[Lys-10],SMLSVLKNLKKVGLGFVACKINKQC,Human erythrocytes,50% Hemolysis,>200,µM,200.0,200.0
+2393,"Ranatuerin-1[Lys-10, Lys-13, Lys-15]",SMLSVLKNLKKVKLKFVACKINKQC,Human erythrocytes,50% Hemolysis,>200,µM,200.0,200.0
+2394,"Ranatuerin-1[Glu-10, Glu-13, Glu-15]",SMLSVLKNLEKVELEFVACKINKQC,Human erythrocytes,50% Hemolysis,>200,µM,200.0,200.0
+2395,Ranatuerin-1[Lys-4],SMLKVLKNLGKVGLGFVACKINKQC,Human erythrocytes,50% Hemolysis,120,µM,120.0,120.0
+2396,"Ranatuerin-1[Ala-19, Ala-22, Ala-25]",SMLSVLKNLGKVGLGFVAAKIAKQA,Human erythrocytes,50% Hemolysis,>200,µM,200.0,200.0
+2397,Ranatuerin-1 (1-18),SMLSVLKNLGKVGLGFVA,Human erythrocytes,50% Hemolysis,>200,µM,200.0,200.0
+2398,Ranatuerin-1[Lys-8],SMLSVLKKLGKVGLGFVACKINKQC,Human erythrocytes,50% Hemolysis,110,µM,110.0,110.0
+2399,Ranatuerin-1[Lys-18],SMLSVLKNLGKVGLGFVKCKINKQC,Human erythrocytes,50% Hemolysis,120,µM,120.0,120.0
+2400,Ranatuerin-1[Lys-22],SMLSVLKNLGKVGLGFVACKIKKQC,Human erythrocytes,50% Hemolysis,90,µM,90.0,90.0
+2401,Ranatuerin-1[Lys-24],SMLSVLKNLGKVGLGFVACKINKKC,Human erythrocytes,50% Hemolysis,80,µM,80.0,80.0
+2451,"Varv E, Varv peptide E",GLPICGETCVGGTCNTPGCSCSWPVCTRN,Human erythrocytes,50% Hemolysis,6.96,µM,6.0,6.0
+2452,Vitri peptide A,GIPCGESCVWIPCITSAIGCSCKSKVCYRN,Human erythrocytes,50% Hemolysis,8.91,µM,8.0,8.0
+2453,Varv peptide H,GLPVCGETCFGGTCNTPGCSCETWPVCSRN,Human erythrocytes,50% Hemolysis,7.52,µM,7.0,7.0
+2493,Vitri B,GYPICGESCVGGICNIPGCSCSWPVCTTN,Human erythrocytes,50% Hemolysis,225.90,µM,225.0,225.0
+2494,Vitri C,GLPICGETCVGGTCNTPGCFCTWPVCTRN,Human erythrocytes,50% Hemolysis,11.53,µM,11.0,11.0
+2495,Vitri D,GLPVCGETCFTGSCYTPGCSCNWPVCNRN,Human erythrocytes,50% Hemolysis,4.29,µM,4.0,4.0
+2496,"Vitri E, Cyclotide C",GLPVCGETCVGGTCNTPGCSCSWPVCFRN,Human erythrocytes,50% Hemolysis,27.06,µM,27.0,27.0
+2497,Vitri F,GTLPCGESCVWIPCISSVVGCACKSKVCYKD,Human erythrocytes,50% Hemolysis,10.00,µM,10.0,10.0
+2512,Lys19 Kassinatuerin-1 -COOH,GFMKYIGPLIPHAVKAISKLI,Human erythrocytes,50% Hemolysis,120,µM,120.0,120.0
+2513,"Lys7,Lys19 Kassinatuerin-1 -COOH",GFMKYIKPLIPHAVKAISKLI,Human erythrocytes,50% Hemolysis,135,µM,135.0,135.0
+2514,"Lys7,Lys18,Lys19 Kassinatuerin-1 -COOH",GFMKYIKPLIPHAVKAIKKLI,Human erythrocytes,50% Hemolysis,200,µM,200.0,200.0
+2537,"Leaf cyclotide 1, Vhl-1",SISCGESCAMISFCFTEVIGCSCKNKVCYLN,Human erythrocytes,50% Hemolysis,55.2±1.5,µM,53.7,53.7
+3154,"Antimicrobial peptide 1, XT-1",GFLGPLLKLAAKGVAKVIPHLIPSRQQ,Human erythrocytes,50% Hemolysis,90,µM,90.0,90.0
+3156,"Antimicrobial peptide 4, XT-4",GVFLDALKKFAKGGMNAVLNPK,Human erythrocytes,50% Hemolysis,>150,µM,150.0,150.0
+3345,Japonicin-1CDYa,FFPLALLCKVFKKC,Human erythrocytes,50% Hemolysis,>300,µM,300.0,300.0
+3347,Dybowskin-1CDYa,IIPLPLGYFAKKT,Human erythrocytes,50% Hemolysis,>300,µM,300.0,300.0
+3348,"Dybowskin-2CDYa, Chensinin-1",SAVGRHGRRFGLRKHRKH,Human erythrocytes,50% Hemolysis,>300,µM,300.0,300.0
+3357,Pseudin-2,GLNALKKVFQGIHEAIKLINNHVQ,Human erythrocytes,50% Hemolysis,360,µM,360.0,360.0
+3383,"Panurgine K, PNG-K",LDVKKIICVACKIKPNPACKKICPK,Human erythrocytes,50% Hemolysis,>200,µM,200.0,200.0
+3385,"Panurgine R, PNG-R",LDVKKIICVACKIRPNPACKKICPK,Human erythrocytes,50% Hemolysis,>200,µM,200.0,200.0
+3396,Brevinin-2PRa,GLMSLFKGVLKTAGKHIFKNVGGSLLDQAKCKITGEC,Human erythrocytes,50% Hemolysis,55,µM,55.0,55.0
+3397,Brevinin-2PRb,GLMSLFRGVLKTAGKHIFKNVGGSLLDQAKCKITGEC,Human erythrocytes,50% Hemolysis,65,µM,65.0,65.0
+3398,Brevinin-2PRc,GLMSVTKGVLKTAGKHIFKNVGGSLLDQAKCKISGQC,Human erythrocytes,50% Hemolysis,125,µM,125.0,125.0
+3399,Brevinin-2PRd,GLMSVLKGVLKTAGKHIFKNVGGSLLDQAKCKITGQC,Human erythrocytes,50% Hemolysis,100,µM,100.0,100.0
+3400,Brevinin-2PRe,GLLSVLKGVLKTTGKHIFKNVGGSLLDQAKCKISGQC,Human erythrocytes,50% Hemolysis,80,µM,80.0,80.0
+3401,Ranatuerin-2PRa,GLMDVFKGAAKNLLASALDKIRCKVTKC,Human erythrocytes,50% Hemolysis,150,µM,150.0,150.0
+3536,Brevinin-1BYa,FLPILASLAAKFGPKLFCLVTKKC,Human erythrocytes,50% Hemolysis,10,µM,10.0,10.0
+3537,Brevinin-1BYb,FLPILASLAAKLGPKLFCLVTKKC,Human erythrocytes,50% Hemolysis,4,µM,4.0,4.0
+3539,Ranatuerin-2BYa,GILSTFKGLAKGVAKDLAGNLLDKFKCKITGC,Human erythrocytes,50% Hemolysis,120,µM,120.0,120.0
+3540,Ranatuerin-2BYb,GIMDSVKGLAKNLAGKLLDSLKCKITGC,Human erythrocytes,50% Hemolysis,>200,µM,200.0,200.0
+3563,Brevinin-1HN1,FLPLIASLAANFVPKIFCKITKKC,Human erythrocytes,50% Hemolysis,75,µM,75.0,75.0
+3564,Brevinin-1V,FLPLIASVAANLVPKIFCKITKKC,Human erythrocytes,50% Hemolysis,75,µM,75.0,75.0
+3565,"Brevinin-2HS2A, Brevinin-2HS2",SLLGTVKDLLIGAGKSAAQSVLKGLSCKLSKDC,Human erythrocytes,50% Hemolysis,300,µM,300.0,300.0
+3567,Esculentin-2PRb,GIFSALAAGVKLLGNTLFKMAGKAGAEHLACKATNQC,Human erythrocytes,50% Hemolysis,35,µM,35.0,35.0
+3568,Ranatuerin-2PRb,GILDTFKGVAKGVAKDLAVHMLENLKCKMTGC,Human erythrocytes,50% Hemolysis,>100,µM,100.0,100.0
+3581,Ranatuerin-2PRe,GIMNTVKDVATGVATHLLNMVKCKITGC,Human erythrocytes,50% Hemolysis,90,µM,90.0,90.0
+3582,Brevinin-1PRa,FLPVLTGLTPSIVPKLVCLLTKKC,Human erythrocytes,50% Hemolysis,150,µM,150.0,150.0
+3583,Brevinin-1PRb,FLPVLAGLTPSIVPKLVCLLTKKC,Human erythrocytes,50% Hemolysis,80,µM,80.0,80.0
+3585,"Brevinin-1La, Brevinin-1PRd",FLPMLAGLAASMVPKLVCLITKKC,Human erythrocytes,50% Hemolysis,5,µM,5.0,5.0
+3769,Magainin-C1,GVGKFLHSAKKFGQALASEIMKS,Human erythrocytes,50% Hemolysis,>200,µM,200.0,200.0
+3770,Magainin-C2,GVGKFLHSAKKFGQALVSEIMKS,Human erythrocytes,50% Hemolysis,>200,µM,200.0,200.0
+3773,CPF-C2,GLGSLLGKALKFGLKAAGKFMGGEPQQ,Human erythrocytes,50% Hemolysis,>200,µM,200.0,200.0
+3776,"Magainin-AN2, Magainin-AM2, magainin-F3, Magainin-BM2, Magainin-R3",GVSKILHSAGKFGKAFLGEIMKS,Human erythrocytes,50% Hemolysis,>200,µM,200.0,200.0
+3779,Magainin-M1,GIGKFLHSAGKFGKAFIGEIMKS,Human erythrocytes,50% Hemolysis,180,µM,180.0,180.0
+3783,CPF-MW1,GLGSLLGKAFKFGLKTVGKMMGGAPREQ,Human erythrocytes,50% Hemolysis,70,µM,70.0,70.0
+3784,CPF-MW2,GLGSLLGKAFKFGLKTVGKMMGGAPREE,Human erythrocytes,50% Hemolysis,105,µM,105.0,105.0
+3786,Hymenochirin-2B,LKIPGFVKDTLKKVAKGIFSAVAGAMTPS,Human erythrocytes,50% Hemolysis,>300,µM,300.0,300.0
+3787,Hymenochirin-3B,IKIPAVVKDTLKKVAKGVLSAVAGALTQ,Human erythrocytes,50% Hemolysis,>300,µM,300.0,300.0
+3788,Hymenochirin-4B,IKIPAFVKDTLKKVAKGVISAVAGALTQ,Human erythrocytes,50% Hemolysis,160,µM,160.0,160.0
+3791,CPF-LM1,GFGSFLGSLFKTGLKIIPKLLPSIQQ,Human erythrocytes,50% Hemolysis,30,µM,30.0,30.0
+3817,"Magainin-AM1, Magainin-F1, Magainin-R2, Magainin-BM1",GIKEFAHSLGKFGKAFVGGILNQ,Human erythrocytes,50% Hemolysis,>200,µM,200.0,200.0
+3894,Dermaseptin-L1,GLWSKIKEAAKAAGKAALNAVTGLVNQGDQPS,Human erythrocytes,50% Hemolysis,200,µM,200.0,200.0
+4146,Warnericin RK,MQFITDLIKKAVDFFKGLFGNK,Human erythrocytes,50% Hemolysis,3,µg/ml,3.0,1.171
+4147,Delta-lysin I,MAADIISTIGDLVKLIINTVKKFQK,Human erythrocytes,50% Hemolysis,12,µg/ml,12.0,4.346
+4189,RV-23,RIGVLLARLPKLFSLFKLMGKKV,Human erythrocytes,50% Hemolysis,35,µM,35.0,35.0
+4194,Jindongenin-1a,DSMGAVKLAKLLIDKMKCEVTKAC,Human erythrocytes,50% Hemolysis,150,µM,150.0,150.0
+4195,Palustrin-2AJ1,GFMDTAKNVAKNVAVTLIDKLRCKVTGGC,Human erythrocytes,50% Hemolysis,135,µM,135.0,135.0
+4209,Brevinin-1SPa,FFPIIAGMAAKLIPSLFCKITKKC,Human erythrocytes,50% Hemolysis,7,µM,7.0,7.0
+4210,Brevinin-1SPb,FLPIIAGMAAKVICAITKKC,Human erythrocytes,50% Hemolysis,25,µM,25.0,25.0
+4211,Brevinin-1SPd,FFPIIAGMAAKVICAITKKC,Human erythrocytes,50% Hemolysis,8,µM,8.0,8.0
+4213,Brevinin-1BLa,FLPAIVGAAAKFLPKIFCAISKKC,Human erythrocytes,50% Hemolysis,14,µM,14.0,14.0
+4215,Brevinin-1Ya,FLPVIAGVAANFLPKLFCAISKKC,Human erythrocytes,50% Hemolysis,14-18,µM,14.0,14.0
+4216,Brevinin-1Yb,FLPIIAGAAAKVVQKIFCAISKKC,Human erythrocytes,50% Hemolysis,10-16,µM,10.0,10.0
+4217,Brevinin-1Yc,FLPIIAGAAAKVVEKIFCAISKKC,Human erythrocytes,50% Hemolysis,13,µM,13.0,13.0
+4218,Ranatuerin-2Ya,GLMDTIKGVAKTVAASWLDKLKCKITGC,Human erythrocytes,50% Hemolysis,>100,µM,100.0,100.0
+4219,Ranatuerin-2AUa,GILSSFKGVAKGVAKNLAGKLLDELKCKITGC,Human erythrocytes,50% Hemolysis,290,µM,290.0,290.0
+4220,Brevinin-1AUa,FLPILAGLAAKLVPKVFCSITKKC,Human erythrocytes,50% Hemolysis,5,µM,5.0,5.0
+4221,Brevinin-1AUb,FLPILAGLAANILPKVFCSITKKC,Human erythrocytes,50% Hemolysis,7,µM,7.0,7.0
+4226,Brevinin-1CHa,FLPIIAGVAAKVLPKLFCAITKKC,Human erythrocytes,50% Hemolysis,5,µM,5.0,5.0
+4227,Brevinin-1CHb,FLPVIAGLAAKVLPKLFCAITKKC,Human erythrocytes,50% Hemolysis,5,µM,5.0,5.0
+4229,Esculentin-2CHa,GFSSIFRGVAKFASKGLGKDLAKLGVDLVACKISKQC,Human erythrocytes,50% Hemolysis,150,µM,150.0,150.0
+4230,Ranatuerin-2CHa,GLMDTVKNAAKNLAGQLLDRLKCKITGC,Human erythrocytes,50% Hemolysis,135,µM,135.0,135.0
+4231,Ranatuerin-2CHb,GLMDTIKGVAKNVAASLLEKLKCKVTGC,Human erythrocytes,50% Hemolysis,120,µM,120.0,120.0
+4275,Cyclotide cliotide T2,GEFLKCGESCVQGECYTPGCSCDWPICKKN,Human erythrocytes,50% Hemolysis,>100,µM,100.0,100.0
+4276,Cyclotide cliotide T1,GIPCGESCVFIPCITGAIGCSCKSKVCYRN,Human erythrocytes,50% Hemolysis,7.1,µM,7.0,7.0
+4277,"Cyclotide Cter M, Cyclotide cliotide T3",GLPTCGETCTLGTCYVPDCSCSWPICMKN,Human erythrocytes,50% Hemolysis,13.1,µM,13.0,13.0
+4278,"Cyclotide cter-P, Cyclotide cliotide T4",GIPCGESCVFIPCITAAIGCSCKSKVCYRN,Human erythrocytes,50% Hemolysis,8.4,µM,8.0,8.0
+4282,Cyclotide chassatide C1,GDACGETCFTGICFTAGCSCNPWPTCTRN,Human erythrocytes,50% Hemolysis,51.9,µM,51.0,51.0
+4283,Cyclotide chassatide C2,GIPCAESCVWIPCTITALMGCSCKNNVCYNN,Human erythrocytes,50% Hemolysis,>25,µM,25.0,25.0
+4285,Cyclotide chassatide C4,GASCGETCFTGICFTAGCSCNPWPTCTRN,Human erythrocytes,50% Hemolysis,51.9,µM,51.0,51.0
+4286,"Cyclotide chassatide C7, Uncyclotide ChaC7",IPCGESCVWIPCITAIAGCSCKNKVCYT,Human erythrocytes,50% Hemolysis,11.6,µM,11.0,11.0
+4287,"Cyclotide chassatide C8, Uncyclotide ChaC8",AIPCGESCVWIPCISTVIGCSCSNKVCYR,Human erythrocytes,50% Hemolysis,25.5,µM,25.0,25.0
+4288,Cyclotide chassatide C10,GEYCGESCYLIPCFTPGCYCVSRQCVNKN,Human erythrocytes,50% Hemolysis,>25,µM,25.0,25.0
+4289,"Cyclotide chassatide C11, Uncyclotide ChaC11",IPCGESCVWIPCISGMFGCSCKDKVCYS,Human erythrocytes,50% Hemolysis,13.3,µM,13.0,13.0
+4386,"Esculentin-2CHa [D20K,D27K]",GFSSIFRGVAKFASKGLGKKLAKLGVKLVACKISKQC,Human erythrocytes,50% Hemolysis,11,µM,11.0,11.0
+4387,"Esculentin-2CHa [C31S, C37S]",GFSSIFRGVAKFASKGLGKDLAKLGVDLVASKISKQS,Human erythrocytes,50% Hemolysis,>200,µM,200.0,200.0
+4388,Esculentin-2CHa (1-30),GFSSIFRGVAKFASKGLGKDLAKLGVDLVA,Human erythrocytes,50% Hemolysis,>200,µM,200.0,200.0
+4395,Ranatuerin-2ONa,GLMDTVKNAAKNLAGQMLDKLKCKITGSC,Human erythrocytes,50% Hemolysis,90,µM,90.0,90.0
+4405,Pseudhymenochirin-1Pb,IKIPSFFRNILKKVGKEAVSLIAGALKQS,Human erythrocytes,50% Hemolysis,28±2,µM,26.0,26.0
+4406,Pseudhymenochirin-2Pa,GIFPIFAKLLGKVIKVASSLISKGRTE,Human erythrocytes,50% Hemolysis,6.2±1.0,µM,5.2,5.2
+4418,"Brevinin-1BYa [C18S,C24S]",FLPILASLAAKFGPKLFSLVTKKS,Human erythrocytes,50% Hemolysis,75,µM,75.0,75.0
+4480,Oxyopinin-4a,GIRCPKSWKCKAFKQRVLKRLLAMLRQHAF,Human erythrocytes,50% Hemolysis,7,µM,7.0,7.0
+4492,"Fowlicidin 3, Cathelicidin-3",KRFWPLVPVAINTVAAGINLYKAIRRK,Human erythrocytes,50% Hemolysis,9,µM,9.0,9.0
+4675,"Protegrin 1, PG-1, Neutrophil peptide 1",RGGRLCYCRRRFCVCVGR,Human erythrocytes,50% Hemolysis,80,µg/ml,80.0,37.02
+4676,PC94,VCYCRRRFCVCVGR,Human erythrocytes,50% Hemolysis,80,µg/ml,80.0,46.5
+4680,PC104,RGGRLCYCRRRFCVCI,Human erythrocytes,>50% Hemolysis,80,µg/ml,80.0,40.78
+4724,Vejovine,GIWSSIKNLASKAWNSDIGQSLRNKAAGAINKFVADKIGVTPSQAAS,Human erythrocytes,50% Hemolysis,100,µM,100.0,100.0
+4806,Indolicidin-OH,ILPWKWPWWPWRR,Human erythrocytes,50% Hemolysis,40,µg/ml,40.0,20.97
+4867,"Piscidin 1, Moronecidin",FFHHIFRGIVHVGKTIHRLVTG,Human erythrocytes,50% Hemolysis,11,µM,11.0,11.0
+4868,Piscidin 1 [G8A],FFHHIFRAIVHVGKTIHRLVTG,Human erythrocytes,50% Hemolysis,4,µM,4.0,4.0
+4869,Piscidin 1 [G13A] ,FFHHIFRGIVHVAKTIHRLVTG,Human erythrocytes,50% Hemolysis,4,µM,4.0,4.0
+4872,Novicidin,KNLRRIIRKGIHIIKKYF,Human erythrocytes,50% Hemolysis,>50,µM,50.0,50.0
+4873,Piscidin 1 [G8A][G13A],FFHHIFRAIVHVAKTIHRLVTG,Human erythrocytes,50% Hemolysis,6,µM,6.0,6.0
+4874,Piscidin 1 [G8P],FFHHIFRPIVHVGKTIHRLVTG,Human erythrocytes,50% Hemolysis,200<,µM,200.0,200.0
+4875,Piscidin 1 [G13P],FFHHIFRGIVHVPKTIHRLVTG,Human erythrocytes,50% Hemolysis,200<,µM,200.0,200.0
+4882,Piscidin 1 [GP][GP],FFHHIFRPIVHVPKTIHRLVTG,Human erythrocytes,50% Hemolysis,200<,µM,200.0,200.0
+4884,Piscidin 1 [G8A][G13P],FFHHIFRAIVHVPKTIHRLVTG,Human erythrocytes,50% Hemolysis,75,µM,75.0,75.0
+4887,Piscidin 1 [G8P][G13A],FFHHIFRPIVHVAKTIHRLVTG,Human erythrocytes,50% Hemolysis,32,µM,32.0,32.0
+5034,Pac-525,KWRRWVRWI,Human erythrocytes,50% Hemolysis,400,µg/ml,400.0,288.7
+5038,,KWRRWIRWL,Human erythrocytes,50% Hemolysis,400,µg/ml,400.0,285.8
+5041,BP76,KKLFKKILKFL,Human erythrocytes,50% Hemolysis,400,µg/ml,400.0,284.5
+5046,,GKLFKKILKIL,Human erythrocytes,50% Hemolysis,400,µg/ml,400.0,307.4
+5047,,KKLIKKILKIL,Human erythrocytes,50% Hemolysis,400,µg/ml,400.0,298.9
+5075,Trialysin (26-53),VSAVAKVAMKKGAALLKKMGVKISPLK,Human erythrocytes,50% Hemolysis,>2500,µg/ml,2500.0,903.2
+5076,Trialysin (21-48),KQLKKVSAVAKVAMKKGAALLKKMGVK,Human erythrocytes,50% Hemolysis,1290,µg/ml,1290.0,451.8
+5078,Trialysin (16-43),VGKVLKQLKKVSAVAKVAMKKGAALLK,Human erythrocytes,50% Hemolysis,>2500,µg/ml,2500.0,890.3
+5079,Trialysin (11-38),KFGKIVGKVLKQLKKVSAVAKVAMKKG,Human erythrocytes,50% Hemolysis,794,µg/ml,794.0,275.2
+5080,Trialysin (6-33),GKVLDKFGKIVGKVLKQLKKVSAVAKV,Human erythrocytes,50% Hemolysis,338,µg/ml,338.0,117.3
+5081,Trialysin (1-33),FKIKPGKVLDKFGKIVGKVLKQLKKVSAVAKV,Human erythrocytes,50% Hemolysis,316,µg/ml,316.0,90.39
+5083,Trialysin (1-29),FKIKPGKVLDKFGKIVGKVLKQLKKVS,Human erythrocytes,50% Hemolysis,900,µg/ml,900.0,297.3
+5084,Trialysin (1-33)[P5A][G6S],FKIKASKVLDKFGKIVGKVLKQLKKVSAVAKV,Human erythrocytes,50% Hemolysis,44.3,µg/ml,44.0,12.57
+5085,Trialysin (1-33)[K2S][K4S],FSISPGKVLDKFGKIVGKVLKQLKKVSAVAKV,Human erythrocytes,50% Hemolysis,96.4,µg/ml,96.0,28.12
+5235,Kalata B5,GTPCGESCVYIPCISGVIGCSCTDKVCYLN,Human erythrocytes,50% Hemolysis,27.4±1.2,µM,26.2,26.2
+5236,Kalata B2,GLPVCGETCFGGTCNTPGCSCTWPICTRD,Human erythrocytes,50% Hemolysis,3.3±1.9,µM,1.4,1.4
+5237,Kalata B6,GLPTCGETCFGGTCNTPGCSCSSWPICTRN,Human erythrocytes,50% Hemolysis,7.7±1.3,µM,6.4,6.4
+5238,Kalata B7,GLPVCGETCTLGTCYTQGCTCSWPICKRN,Human erythrocytes,50% Hemolysis,55.2±1.3,µM,53.9,53.9
+5239,Cycloviolacin O1,GIPCAESCVYIPCTVTALLGCSCSNRVCYN,Human erythrocytes,50% Hemolysis,61.6±1.3,µM,60.3,60.3
+5240,Cycloviolacin H3,GLPVCGETCFGGTCNTPGCICDPWPVCTRN,Human erythrocytes,50% Hemolysis,6.6±1.3,µM,5.3,5.3
+5281,Palustrin-3AR,GIFPKIIGKGIVNGIKSLAKGVGMKVFKAGLNNIGNTGCNNRDEC,Human erythrocytes,50% Hemolysis,200,µM,200.0,200.0
+5282,Esculentin-1ARa,GIFSKINKKKAKTGLFNIIKTVGKEAGMDVIRAGIDTISCKIKGEC,Human erythrocytes,50% Hemolysis,180,µM,180.0,180.0
+5283,Esculentin-1ARb,GLFPKFNKKKVKTGIFDIIKTVGKEAGMDVLRTGIDVIGCKIKGEC,Human erythrocytes,50% Hemolysis,120,µM,120.0,120.0
+5284,Ranatuerin-2ARa,GLMDTVKNAAKNLAGQLLDTIKCKMTGC,Human erythrocytes,50% Hemolysis,100,µM,100.0,100.0
+5285,Ranatuerin-2ARb,GILDTIKNAAKTVAVGLLEKIKCKMTGC,Human erythrocytes,50% Hemolysis,150,µM,150.0,150.0
+5286,"Ranatuerin-2SEa, Palustrin-2AR",GFISTVKNLATNVAGTVIDTIKCKVTGGC,Human erythrocytes,50% Hemolysis,>300,µM,300.0,300.0
+5361,Pleurocidin-like peptide NRC-124,GIRKWFKKAAHVGKEVGKVALNACL,Human erythrocytes,50% Hemolysis,>256,µg/ml,256.0,93.95
+5371,Frenatin 2.3S,GLVGTLLGHIGKAILG,Human erythrocytes,50% Hemolysis,404±11,µM,393.0,393.0
+5468,"Hadrurin/Vejovine based peptide, H/V-peptide",GILKTIKSIASKVANTVQKLKRKAKNAVA,Human erythrocytes,50% Hemolysis,665,µM,665.0,665.0
+5469,H/V-peptide (1-28),GILKTIKSIASKVANTVQKLKRKAKNAV,Human erythrocytes,50% Hemolysis,824,µM,824.0,824.0
+5476,H/V-peptide (1-11)(19-25),GILKTIKSIASKLKRKAK,Human erythrocytes,50% Hemolysis,923,µM,923.0,923.0
+5477,H/V-peptide (1-11)(19-25)[K4N],GILNTIKSIASKLKRKAK,Human erythrocytes,50% Hemolysis,640,µM,640.0,640.0
+5515,Orinthodoros Defensin A,GYGCPFNQYQCHSHCSGIRGYKGGYCKGTFKQTCKCY,Human erythrocytes,50% Hemolysis,>100,µg/ml,100.0,23.95
+5623,"Piscidin-4, Oreochromicin 2",FIHHIIGGLFSAGKAIHRLIRRRRR,Human erythrocytes,50% Hemolysis,19,µM,19.0,19.0
+5627,Pardaxin P-4,GFFALIPKIISSPLFKTLLSAVGSALSSSGGQE,Human erythrocytes,50% Hemolysis,50,µM,50.0,50.0
+5694,Brevinin-1SN1,FLPAVLKVAAHILPTAICAISRRC,Human erythrocytes,50% Hemolysis,200,µM,200.0,200.0
+5697,Brevinin-2SN2,GVLDTLKNVAIGVAKGAGTGVLKALLCQLDKSC,Human erythrocytes,50% Hemolysis,50,µM,50.0,50.0
+5842,"Pandinin-2 [P14G], Pin2 [P14G]",FWGALAKGALKLIGSLFSSFSKKD,Human erythrocytes,50% Hemolysis,1.4,µM,1.0,1.0
+5843,"Pandinin-2 [P14GPG], Pin2 [P14GPG]",FWGALAKGALKLIGPGSLFSSFSKKD,Human erythrocytes,50% Hemolysis,46.6,µM,46.0,46.0
+5844,"Pandinin-2 [14], Pin2 [14]",FWGLKGLKKFSKKL,Human erythrocytes,50% Hemolysis,418.4,µM,418.0,418.0
+6166,Ranatuerin-2VLb,GIMDTIKGAAKDLAGQLLDKLKCKITKC,Human erythrocytes,50% Hemolysis,>200,µM,200.0,200.0
+6167,Brevinin-1VLa,FLGAIAGVAAKFLPKVFCFITKKC,Human erythrocytes,50% Hemolysis,8,µM,8.0,8.0
+6168,Brevinin-1VLd,FLPLIAGVAANFLPKIFCLISKKC,Human erythrocytes,50% Hemolysis,5,µM,5.0,5.0
+6169,Brevinin-1VLc,FLPVIASVAAKVLPKVFCFITKKC,Human erythrocytes,50% Hemolysis,7,µM,7.0,7.0
+6170,Brevinin-1VLe,FLPLIAGVAASILPKIFCFITKKC,Human erythrocytes,50% Hemolysis,5,µM,5.0,5.0
+6543,"Eosinophil cationic protein (1-45) [C23,37S], RNase 3 (1-45) [C23,37S]",RPPQFTRAQWFAIQHISLNPPRSTIAMRAINNYRWRSKNQNTFLR,Human erythrocytes,50% Hemolysis,11.7±0.2,µM,11.5,11.5
+6544,Eosinophil cationic protein (24-45) [C37S],TIAMRAINNYRWRSKNQNTFLR,Human erythrocytes,50% Hemolysis,18.7±0.1,µM,18.6,18.6
+6545,Eosinophil cationic protein (1-19),RPPQFTRAQWFAIQHISLN,Human erythrocytes,50% Hemolysis,11.2±0.1,µM,11.1,11.1
+6546,"Eosinophil cationic protein (8-45) [C23,37S]",AQWFAIQHISLNPPRSTIAMRAINNYRWRSKNQNTFLR,Human erythrocytes,50% Hemolysis,10.5±0.2,µM,10.3,10.3
+6547,"Eosinophil cationic protein (8-36) [C23,37S]",AQWFAIQHISLNPPRSTIAMRAINNYRWR,Human erythrocytes,50% Hemolysis,10.3±0.1,µM,10.2,10.2
+6551,"Eosinophil cationic protein (16-45) [C23,37S]",ISLNPPRSTIAMRAINNYRWRSKNQNTFLR,Human erythrocytes,50% Hemolysis,10.5±0.2,µM,10.3,10.3
+6552,"Eosinophil cationic protein, RNase 3",RPPQFTRAQWFAIQHISLNPPRCTIAMRAINNYRWRCKNQNTFLRTTFANVVNVCGNQSIRCPHNRTLNNCHRSRFRVPLLHCDLINPGAQNISNCTYADRPGRRFYVVACDNRDPRDSPRYPVVPVHLDTTI,Human erythrocytes,50% Hemolysis,>25,µM,25.0,25.0
+6702,brevinin-1ZHa,FLPFLLSALPKVFCFFSKKC,Human erythrocytes,50% Hemolysis,3,µM,3.0,3.0
+6703,"Brevinin-1ZHb, Amurin-2b",FLPLLLSALPSFLCLVFKKC,Human erythrocytes,50% Hemolysis,5,µM,5.0,5.0
+6704,Brevinin-2ZHa,GIMRVFKGVLKTAGKSVAKNVAGSFLDRLKCKISGGC,Human erythrocytes,50% Hemolysis,52,µM,52.0,52.0
+6705,Ranatuerin-2ZHa,GLADYWRTAFRANFANLGPGIRCKSARC,Human erythrocytes,50% Hemolysis,>64,µM,64.0,64.0
+6923,Pseudin-2 [N3K],GLKALKKVFQGIHEAIKLINNHVQ,Human erythrocytes,50% Hemolysis,340,µM,340.0,340.0
+6924,Pseudin-2 [Q10K],GLNALKKVFKGIHEAIKLINNHVQ,Human erythrocytes,50% Hemolysis,240,µM,240.0,240.0
+6925,Pseudin-2 [E14K],GLNALKKVFQGIHKAIKLINNHVQ,Human erythrocytes,50% Hemolysis,240,µM,240.0,240.0
+6926,Pseudin-2 [N21K],GLNALKKVFQGIHEAIKLINKHVQ,Human erythrocytes,50% Hemolysis,270,µM,270.0,270.0
+6927,Pseudin-2 [Q24K],GLNALKKVFQGIHEAIKLINNHVK,Human erythrocytes,50% Hemolysis,380,µM,380.0,380.0
+6928,Pseudin-2 [N3K][E14K],GLKALKKVFQGIHKAIKLINNHVQ,Human erythrocytes,50% Hemolysis,250,µM,250.0,250.0
+6929,Pseudin-2 [N3K][Q10K][E14K],GLKALKKVFKGIHKAIKLINNHVQ,Human erythrocytes,50% Hemolysis,330,µM,330.0,330.0
+6931,Pseudin-2 [N3K][Q10K][E14K][N21K],GLKALKKVFKGIHKAIKLINKHVQ,Human erythrocytes,50% Hemolysis,180,µM,180.0,180.0
+6932,Pseudin-2 [N3K][Q10K][E14K][N21K][Q24K],GLKALKKVFKGIHKAIKLINKHVK,Human erythrocytes,50% Hemolysis,95,µM,95.0,95.0
+6933,Pseudin-2 [L5F],GLNAFKKVFQGIHEAIKLINNHVQ,Human erythrocytes,50% Hemolysis,440,µM,440.0,440.0
+6934,Pseudin-2 [V8F],GLNALKKFFQGIHEAIKLINNHVQ,Human erythrocytes,50% Hemolysis,270,µM,270.0,270.0
+6935,Pseudin-2 [I12F],GLNALKKVFQGFHEAIKLINNHVQ,Human erythrocytes,50% Hemolysis,370,µM,370.0,370.0
+6936,Pseudin-2 [I16F],GLNALKKVFQGIHEAFKLINNHVQ,Human erythrocytes,50% Hemolysis,250,µM,250.0,250.0
+6937,Pseudin-2 [I19F],GLNALKKVFQGIHEAIKLFNNHVQ,Human erythrocytes,50% Hemolysis,430,µM,430.0,430.0
+7113,Chensinin-1b (7-13),WRRFWHR,Human erythrocytes,50% Hemolysis,>500,µM,500.0,500.0
+7164,,WLRRIKAWLRRIKA,Human erythrocytes,50% Hemolysis,256,µM,256.0,256.0
+7170,Piscidin 1 [F1K],KFHHIFRGIVHVGKTIHRLVTG,Human erythrocytes,50% Hemolysis,100,µM,100.0,100.0
+7386,Citropin 1.1,GLFDVIKKVASVIGGL,Human erythrocytes,50% Hemolysis,>32,µg/ml,32.0,19.8
+7659,Chensinin-1 [G7L] ,SAVGRHLRRFGLRKHRKH,Human erythrocytes,50% Hemolysis,452.55,µM,452.0,452.0
+7660,Chensinin-1 [G7L][G11L],SAVGRHLRRFLLRKHRKH,Human erythrocytes,50% Hemolysis,452.37,µM,452.0,452.0
+7661,Chensinin-1 [G4L][G7L][G11L],SAVLRHLRRFLLRKHRKH,Human erythrocytes,50% Hemolysis,448.97,µM,448.0,448.0
+7662,Chensinin-1 [A2K][L12H][K14A][H18L],SKVGRHGRRFGHRAHRKL,Human erythrocytes,50% Hemolysis,>500,µM,500.0,500.0
+7663,Chensinin-1 [G7L][L12H][K14A][H18L],SKVGRHLRRFGHRAHRKL,Human erythrocytes,50% Hemolysis,500,µM,500.0,500.0
+7664,Chensinin-1 [A2K][G7L][G11L][L12H][K14A][H18L],SKVGRHLRRFLHRAHRKL,Human erythrocytes,50% Hemolysis,493.92,µM,493.0,493.0
+7665,Chensinin-1 [A2K][G4L][G7L][G11L][L12H][K14A][H18L],SKVLRHLRRFLHRAHRKL,Human erythrocytes,50% Hemolysis,460.78,µM,460.0,460.0
+7680,"DP7, HH2 [L3W,A12K]",VQWRIRVAVIRK,Human erythrocytes,50% Hemolysis,>1280,µg/ml,1280.0,839.9
+8064,Temporin-1CEe,ILPIIGKILSTIFGK,Human erythrocytes,50% Hemolysis,24,µM,24.0,24.0
+8065,Brevinin-2CE,GLLSVFKGVLKTAGKNVAKNVAGSLLDQLKCKISGGC,Human erythrocytes,50% Hemolysis,73,µM,73.0,73.0
+8066,Palustrin-2CE,GLWDSIKNFGKTIALNVMDKIKCKIGGGCPP,Human erythrocytes,50% Hemolysis,64,µM,64.0,64.0
+8094,Brevinin-1CDYa,LLSLALAALPKLFCLIFKKC,Human erythrocytes,50% Hemolysis,180±12,µM,168.0,168.0
+8105,"Chensinin-1 [A2K,L12H,K14A,H18K;G4,7,11,W]",SKVWRHWRRFWHRAHRKK,Human erythrocytes,50% Hemolysis,>500,µM,500.0,500.0
+8197,Dermal antimicrobial peptide Hs-1,FLPLILPSIVTALSSFLKQG,Human erythrocytes,50% Hemolysis,82,µM,82.0,82.0
+8209,Melittin [P14C],GIGAVLKVLTTGLCALISWIKRKRQQ,Human erythrocytes,50% Hemolysis,2.5,µM,2.0,2.0
+8266,"Bacteriocin, Enterocin NKR-5-3B",LTANLGISSYAAKKVIDIINTGSAVATIIALVTAVVGGGLITAGIVATAKSLIKKYGAKYAAAW,Human erythrocytes,50% Hemolysis,6.9,µM,6.0,6.0
+8373,Brevinin-1TP1,FLPGLIKAAVGVGSTILCKITKKC,Human erythrocytes,50% Hemolysis,100,µM,100.0,100.0
+8439,VpAmp2.0,FWGFLGKLAMKAVPSLIGGNKSSSK,Human erythrocytes,50% Hemolysis,167±22.5,µM,144.5,144.5
+8440,VpAmp2.1,FWGFLGKLAMKAVPSLIGGNKK,Human erythrocytes,50% Hemolysis,103.5±1.7,µM,101.8,101.8
+8610,"Cathelicidin Cl, dCATH",KRFWQLVPLAIKIYRAWKRR,Human erythrocytes,50% Hemolysis,20,µM,20.0,20.0
+8829,L-K6 [I1W],WKKILSKIKKLLK,Human erythrocytes,50% Hemolysis,>500,µM,500.0,500.0
+8830,L-K6 [I4W],IKKWLSKIKKLLK,Human erythrocytes,50% Hemolysis,>500,µM,500.0,500.0
+8831,L-K6 [L5W],IKKIWSKIKKLLK,Human erythrocytes,50% Hemolysis,>500,µM,500.0,500.0
+8832,L-K6 [L11W],IKKILSKIKKWLK,Human erythrocytes,50% Hemolysis,>500,µM,500.0,500.0
+8833,L-K6 [L12W],IKKILSKIKKLWK,Human erythrocytes,50% Hemolysis,>500,µM,500.0,500.0
+8840,"L-K6 [L5,11W]",IKKIWSKIKKWLK,Human erythrocytes,50% Hemolysis,>500,µM,500.0,500.0
+8841,"L-K6 [L5,12W]",IKKIWSKIKKLWK,Human erythrocytes,50% Hemolysis,>500,µM,500.0,500.0
+8842,"L-K6 [L11,12W]",IKKILSKIKKWWK,Human erythrocytes,50% Hemolysis,>500,µM,500.0,500.0
+8843,"L-K6 [L5,11,12W]",IKKIWSKIKKWWK,Human erythrocytes,50% Hemolysis,>500,µM,500.0,500.0
+8943,"Codesane, COD",GMASLLAKVLPHVVKLIK,Human erythrocytes,50% Hemolysis,105,µM,105.0,105.0
+8944,"Codesane [S4K], COD-1",GMAKLLAKVLPHVVKLIK,Human erythrocytes,50% Hemolysis,150,µM,150.0,150.0
+8945,"Codesane [L5K], COD-2",GMASKLAKVLPHVVKLIK,Human erythrocytes,50% Hemolysis,>200,µM,200.0,200.0
+8946,"Codesane [H12K], COD-3",GMASLLAKVLPKVVKLIK,Human erythrocytes,50% Hemolysis,>200,µM,200.0,200.0
+8947,"Codesane [L6W], COD-4",GMASLWAKVLPHVVKLIK,Human erythrocytes,50% Hemolysis,162.5,µM,162.0,162.0
+9101,"Chensinin-1 [A2K, G4,7,11W, L12H, K14A, K17L], Chensinin-1b",SKVWRHWRRFWHRAHRLH,Human erythrocytes,50% Hemolysis,>500,µM,500.0,500.0
+9442,Lfcin B (20-25),RRWQWR,Human erythrocytes,50% Hemolysis,>100,µM,100.0,100.0
+9494,"Mastoparan-L [A5I, A8R]",INLKILARLAKKIL,Human erythrocytes,50% Hemolysis,>200,µg/ml,200.0,124.4
+9630,,LRWLRWG,Human erythrocytes,50% Hemolysis,>150,µM,150.0,150.0
+9634,,LKWLKWG,Human erythrocytes,50% Hemolysis,>150,µM,150.0,150.0
+9635,,LKFLKFG,Human erythrocytes,50% Hemolysis,>150,µM,150.0,150.0
+9758,"Sm Dermaseptin-like peptide, SmDLP",DLWNSIKDMAAAAGRAALNAVTGMVNQ,Human erythrocytes,50% Hemolysis,692,µM,692.0,692.0
+9818,TetraF2W-KR,WWWLKRIW,Human erythrocytes,50% Hemolysis,30,µM,30.0,30.0
+9819,TetraF2W-RK,WWWLRKIW,Human erythrocytes,50% Hemolysis,30,µM,30.0,30.0
+9820,TetraF2W-KK,WWWLKKIW,Human erythrocytes,50% Hemolysis,40,µM,40.0,40.0
+9821,TetraF2W-RR,WWWLRRIW,Human erythrocytes,50% Hemolysis,20,µM,20.0,20.0
+9922,"Bothropstoxin-I (105-117)[C115S], Bthtx-I (105-117)[C115S]",KKYRYHLKPFSKK,Human erythrocytes,50% Hemolysis,>128,µM,128.0,128.0
+9924,"Bothropstoxin-I (105-117), Bthtx-I (105-117)",KKYRYHLKPFCKK,Human erythrocytes,50% Hemolysis,>128,µM,128.0,128.0
+9988,"Chensinin-1 [G4,7,11W]",SAVWRHWRRFWLRKHRKH,Human erythrocytes,50% Hemolysis,>500,µM,500.0,500.0
+9989,"Chensinin-1 [G4,11W;H6W;G7Del;H15,18Del]",SAVWRWRRFWLRKRK,Human erythrocytes,50% Hemolysis,>500,µM,500.0,500.0
+9990,"Chensinin-1 [G4,7,11W;H6,15,18R]",SAVWRRWRRFWLRKRRKR,Human erythrocytes,50% Hemolysis,>500,µM,500.0,500.0
+10099,LfcinB (21–25)Pal,RWQWRWQWR,Human erythrocytes,50% Hemolysis,>100,µM,100.0,100.0
+10137,Ceratotoxin-like peptide Ctx-Ha,GWLDVAKKIGKAAFNVAKNFL,Human erythrocytes,50% Hemolysis,37.3±1.4,µM,35.9,35.9
+10398,"Cecropin-D-like peptide [E6,8R;Q12K]",ENFFKRIRRAGKRIRDAIISAAPAVETLAQAQKIIKGGD,Human erythrocytes,50% Hemolysis,1752.3,µM,1752.0,1752.0
+10399,"Cecropin-D-like peptide [E1,6,8R;Q12K;D16K]",RNFFKRIRRAGKRIRKAIISAAPAVETLAQAQKIIKGGD,Human erythrocytes,50% Hemolysis,735.4,µM,735.0,735.0
+10525,Dendropsophin 1,NLLNDALGTVNGLLGRS,Human erythrocytes,50% Hemolysis,>256,µM,256.0,256.0
+10526,Dendropsophin 1 [D5K],NLLNKALGTVNGLLGRS,Human erythrocytes,50% Hemolysis,>256,µM,256.0,256.0
+10537,Cyclotide mech-2,GLPTCGETCTLGKCNTPKCTCNWPICYKD,Human erythrocytes,50% Hemolysis,>64,µM,64.0,64.0
+10539,Cyclotide mech-3,GLPTCGETCTLGKCNTPKCTCNWPICYKN,Human erythrocytes,50% Hemolysis,>64,µM,64.0,64.0
+10540,Cyclotide mela-1,GKYTCGETCFKGKCYTPGCTCSYPICKKD,Human erythrocytes,50% Hemolysis,>64,µM,64.0,64.0
+10541,Cyclotide mela-2,GKPTCGETCFKGKCYTPGCTCSYPLCKKD,Human erythrocytes,50% Hemolysis,>64,µM,64.0,64.0
+10544,Cyclotide mela-6,GLPTCGETCFKGKCYTPGCSCSYPICKKD,Human erythrocytes,50% Hemolysis,>64,µM,64.0,64.0
+10545,Cyclotide mela-7,GLPTCGETCFKGKCYTPGCSCSYPICKKN,Human erythrocytes,50% Hemolysis,>64,µM,64.0,64.0
+10625,,WKRRIKIWKKIR,Human erythrocytes,50% Hemolysis,>256,µM,256.0,256.0
+10626,,WIRRIKKWIRRVHK,Human erythrocytes,50% Hemolysis,256,µM,256.0,256.0
+10627,,WLRRIKAWLRRKRK,Human erythrocytes,50% Hemolysis,>256,µM,256.0,256.0
+10700,"Myxinidin [G1K, H3K, H4W, G9W, P11W]",KIKWILKYWKWS,Human erythrocytes,50% Hemolysis,400,µM,400.0,400.0
+10701,"Myxinidin [G1R, H3R, D4W, K7R, G9W, K10R, P11W]",RIRWILRYWRWS,Human erythrocytes,50% Hemolysis,100,µM,100.0,100.0
+10711,Catesbeianin-1,MMRVMRRKTKVIWEKKDFIGLYSID,Human erythrocytes,50% Hemolysis,300,µg/ml,300.0,95.38
+10891,Oxysterlin 3,GSKRWRKFEKRVKKVFEHTKEALPVIQGVATVVGAVGRR,Human erythrocytes,50% Hemolysis,500,µg/ml,500.0,112.4
+10912,Amhelin,KQKLAKLKAKLQKLKQKLAKL,Human erythrocytes,50% Hemolysis,>>600,µM,600.0,600.0
+11385,"Cyclic Protegrin 1, Cyclic PG-1",RGGRLCYCRRRFCVCVGR,Human erythrocytes,50% Hemolysis,136.6,µM,136.0,37.02
+11386,"Cyclic Protegrin 1 [R4C,G17C], Cyclic PG-1 [R4C,G17C]",RGGCLCYCRRRFCVCVCR,Human erythrocytes,50% Hemolysis,798.6,µM,798.0,798.0
+11396,"Lfcin-B (1-11)[F1Y,C3A,R4W,Q7A,M10W]",YKAWRWAWRWK,Human erythrocytes,50% Hemolysis,540,µg/ml,540.0,329.9
+11525,Moronecidin-like peptide,FFRNLWKGAKAAFRAGHAAWRA,Human erythrocytes,50% Hemolysis,87.5,µg/ml,87.0,34.34
+12163,Cycloviolacin O13,GIPCGESCVWIPCISAAIGCSCKSKVCYRN,Human erythrocytes,50% Hemolysis,11,µM,11.0,11.0
+12168,Cycloviolacin Y4,GVPCGESCVFIPCITGVIGCSCSSNVCYLN,Human erythrocytes,50% Hemolysis,9.3,µM,9.0,9.0
+12169,Cycloviolacin Y5,GIPCAESCVWIPCTVTALVGCSCSDKVCYN,Human erythrocytes,50% Hemolysis,8.7,µM,8.0,8.0
+12200,Kalata B1 [N15Y],GLPVCGETCVGGTCYTPGCTCSWPVCTRN,Human erythrocytes,50% Hemolysis,6.9±0.3,µM,6.6,6.6
+12211,Kalata B1 [W23WW],GLPVCGETCVGGTCNTPGCTCSWWPVCTRN,Human erythrocytes,50% Hemolysis,14.0±0.7,µM,13.3,13.3
+12233,"Polyphemusin III, PM-III",RRGCFRVCYRGFCFQRCR,Human erythrocytes,50% Hemolysis,46,µM,46.0,46.0
+12236,Nicomicin-1,GFWSSVWDGAKNVGTAIIKNAKVCVYAVCVSHK,Human erythrocytes,50% Hemolysis,64,µM,64.0,64.0
+12238,Nicomicin-1 (18-33),IKNAKVCVYAVCVSHK,Human erythrocytes,50% Hemolysis,128,µM,128.0,128.0
+12243,Mastoparan-Vo,INLKAIAALVKKV,Human erythrocytes,50% Hemolysis,1024,µg/ml,1024.0,741.5
+12306,"ChMAP-28, MAP28 Protein (102-128)",GRFKRFRKKLKRLWHKVGPFVGPILHY,Human erythrocytes,50% Hemolysis,100,µM,100.0,100.0
+12416,Esculentin-1GN,GLFSKKGGKGGKSWIKGVFKGIKGIGKEVGGDVIRTGIEIAACKIKGEC,Human erythrocytes,50% Hemolysis,>40,µM,40.0,40.0
+12529,"Odorranain-HP [V8K], Dadapin-1",GLLRASSKWGRKYYVDLAGCAKA,Human erythrocytes,50% Hemolysis,670,µM,670.0,670.0
+12756,,GLLDLLKLLLKAAG,Human erythrocytes,50% Hemolysis,63±8,µM,55.0,55.0
+12822,Chensinin-1b (6-13),HWRRFWHR,Human erythrocytes,50% Hemolysis,>500,µM,500.0,500.0
+12823,"Chensinin-1b (6-13)[H1,7R]",RWRRFWRR,Human erythrocytes,50% Hemolysis,>500,µM,500.0,500.0
+12831,Chensinin-1b (7-13)[H6R],WRRFWRR,Human erythrocytes,50% Hemolysis,>500,µM,500.0,500.0
+12894,KABT-AMP,GIWKKWIKKWLKKLLKKLWKKG,Human erythrocytes,50% Hemolysis,81.23±8.92,µg/ml,72.31,25.48
+13120,"Hepcidin, Bthepc, CtHep",QSHLSLCRWCCNCCHNKGCGFCCKF,Human erythrocytes,50% Hemolysis,34.71,µM,34.0,34.0
+13190,BMAP-27 (9-20)-LL-37 (17-29),KFKKLFKKLSPVFKRIVQRIKDFLR,Human erythrocytes,50% Hemolysis,200,µM,200.0,200.0
+13330,D2A21,FAKKFAKKFKKFAKKFAKFAFAF,Human erythrocytes,50% Hemolysis,52,µg/ml,52.0,18.73
+13331,D4E1,FKLRAKIKVRLRAKIKL,Human erythrocytes,50% Hemolysis,133.6,µg/ml,133.0,63.88
+13351,,KFAK,Human erythrocytes,50% Hemolysis,>500,µg/ml,500.0,1015.0
+13352,,KFAKKFAK,Human erythrocytes,50% Hemolysis,>250,µg/ml,250.0,258.4
+13353,,KFAKKFAKKFAK,Human erythrocytes,50% Hemolysis,>500,µg/ml,500.0,346.7
+13354,,KFAKKFAKKFAKKFAK,Human erythrocytes,50% Hemolysis,>250,µg/ml,250.0,130.4
+13355,,KFAKKFAKKFAKKFAKKFAK,Human erythrocytes,50% Hemolysis,>250,µg/ml,250.0,104.5
+13356,,KFAKKFAKKFAKKFAKKFAKKFAK,Human erythrocytes,50% Hemolysis,>250,µg/ml,250.0,87.22
+13357,,KFAKKFAKKFAKKFAKKFAKKFAKKFAK,Human erythrocytes,50% Hemolysis,>250,µg/ml,250.0,74.83
+13358,,KFAKKFAKKFAKKFAKKFAKKFAKKFAKKFAK,Human erythrocytes,50% Hemolysis,>500,µg/ml,500.0,131.0
+13361,,RFARRFARRFARRFARRFARRFAR,Human erythrocytes,50% Hemolysis,176,µg/ml,176.0,54.96
+13362,,RFARRFARRFARRFARRFARRFARRFAR,Human erythrocytes,50% Hemolysis,20,µg/ml,20.0,5.358
+13363,,RFARRFARRFARRFARRFARRFARRFARRFAR,Human erythrocytes,50% Hemolysis,17,µg/ml,17.0,3.987
+13364,,FAKKFAKKFAKKFAKKFAKKFAKK,Human erythrocytes,50% Hemolysis,>500,µg/ml,500.0,174.4
+13365,,AKKFAKKFAKKFAKKFAKKFAKKF,Human erythrocytes,50% Hemolysis,39,µg/ml,39.0,13.61
+13366,,KKFAKKFAKKFAKKFAKKFAKKFA,Human erythrocytes,50% Hemolysis,>500,µg/ml,500.0,174.4
+13367,,LKKLLKKLLKKLLKKLLKKL,Human erythrocytes,50% Hemolysis,9,µg/ml,9.0,3.701
+13368,,LKKLLKKLLKKLLKKLLKKLLKKL,Human erythrocytes,50% Hemolysis,11,µg/ml,11.0,3.774
+13369,,LKKLLKKLLKKLLKKLLKKLLKKLLKKL,Human erythrocytes,50% Hemolysis,9,µg/ml,9.0,2.649
+13370,,LKKLLKKLLKKLLKKLLKKLLKKLLKKLLKKL,Human erythrocytes,50% Hemolysis,8,µg/ml,8.0,2.062
+13371,,KFAFKFAFKFAFKFAFKFAFKFAFKFAF,Human erythrocytes,50% Hemolysis,>500,µg/ml,500.0,143.9
+13372,,KFFKKFFKKFFKKFFKKFFKKFFKKFFK,Human erythrocytes,50% Hemolysis,12,µg/ml,12.0,3.098
+13373,,KAAKKAAKKAAKKAAKKAAKKAAKKAAK,Human erythrocytes,50% Hemolysis,>500,µg/ml,500.0,178.0
+13374,,KKAKKKAKKKAKKKAKKKAKKKAKKKAK,Human erythrocytes,50% Hemolysis,>500,µg/ml,500.0,155.9
+13375,,KFKKFKKFKKFKKFKKFK,Human erythrocytes,50% Hemolysis,>500,µg/ml,500.0,205.0
+13376,,KFKKFKKFKKFKKFKKFKKFK,Human erythrocytes,50% Hemolysis,>500,µg/ml,500.0,175.9
+13377,,KFKKFKKFKKFKKFKKFKKFKKFK,Human erythrocytes,50% Hemolysis,>500,µg/ml,500.0,154.0
+13378,,KFKKFKKFKKFKKFKKFKKFKKFKKFK,Human erythrocytes,50% Hemolysis,>500,µg/ml,500.0,137.0
+13379,,KFKKFKKFKKFKKFKKFKKFKKFKKFKKFK,Human erythrocytes,50% Hemolysis,>500,µg/ml,500.0,123.3
+13385,,FKAFKAFKAFKAFKAFKA,Human erythrocytes,50% Hemolysis,496,µg/ml,496.0,236.5
+13386,,FKAFKAFKAFKAFKAFKAFKA,Human erythrocytes,50% Hemolysis,>500,µg/ml,500.0,204.6
+13387,,FKAFKAFKAFKAFKAFKAFKAFKA,Human erythrocytes,50% Hemolysis,>500,µg/ml,500.0,179.2
+13388,,FKAFKAFKAFKAFKAFKAFKAFKAFKA,Human erythrocytes,50% Hemolysis,>500,µg/ml,500.0,159.4
+13389,,FKAFKAFKAFKAFKAFKAFKAFKAFKAFKA,Human erythrocytes,50% Hemolysis,>500,µg/ml,500.0,143.6
+13394,,LKLKLKLKLKLKLK,Human erythrocytes,50% Hemolysis,>500,µg/ml,500.0,292.8
+13395,,LKLKLKLKLKLKLKLK,Human erythrocytes,50% Hemolysis,>500,µg/ml,500.0,256.5
+13396,,LKLKLKLKLKLKLKLKLK,Human erythrocytes,50% Hemolysis,>500,µg/ml,500.0,228.2
+13397,,LKLKLKLKLKLKLKLKLKLK,Human erythrocytes,50% Hemolysis,>500,µg/ml,500.0,205.6
+13398,,LKLKLKLKLKLKLKLKLKLKLK,Human erythrocytes,50% Hemolysis,>500,µg/ml,500.0,187.0
+13399,,LKLKLKLKLKLKLKLKLKLKLKLK,Human erythrocytes,50% Hemolysis,>500,µg/ml,500.0,171.5
+13402,,LRLRLRLRLRLRLR,Human erythrocytes,50% Hemolysis,>500,µg/ml,500.0,262.6
+13403,,LRLRLRLRLRLRLRLRLR,Human erythrocytes,50% Hemolysis,>500,µg/ml,500.0,204.7
+13404,,LALALALALALALALALALALA,Human erythrocytes,50% Hemolysis,450,µg/ml,450.0,220.0
+13425,FhHDM-1p2  (14-31),ITEVITILLNRLTDRLEK,Human erythrocytes,50% Hemolysis,>250,µM,250.0,250.0
+13427,"FhHDM-1p2  (14-31) [E3K; V4Q, I7K; L8,12,16Q; D14K, R15I, E17S]",ITKQITKQLNRQTKIQSK,Human erythrocytes,50% Hemolysis,>250,µM,250.0,250.0
+13505,"Arenicin-1 [V4R; Y5,7R; A6Y; R16,18Y; Y17A; R19V]",RWCRRYRVRVRGVLVYAYVCW,Human erythrocytes,50% Hemolysis,>80,µM,80.0,80.0
+13506,"R-Arenicin-1 [L15R; R17,19Y; Y18A; R20V]",RRWCVYAYVRVRGVRVYAYVCW,Human erythrocytes,50% Hemolysis,>80,µM,80.0,80.0
+13507,"Arenicin (2-21) [V3R; Y4,6R; A5Y; R8L]",WCRRYRVLVRGVLVRYRRCW,Human erythrocytes,50% Hemolysis,66,µM,66.0,66.0
+13515,"Arenicin-1 [W2,21F]",RFCVYAYVRVRGVLVRYRRCF,Human erythrocytes,50% Hemolysis,60.5,µM,60.0,60.0
+13517,Cycl-Arenicin-1,RWCVYAYVRVRGVLVRYRRCW,Human erythrocytes,50% Hemolysis,65.5,µM,65.0,65.0
+13717,,WKIFKLKLRMLW,Human erythrocytes,50% Hemolysis,6.25,µM,6.0,6.0
+13719,,KFKKVIWKSFL,Human erythrocytes,50% Hemolysis,50,µM,50.0,50.0
+13760,"Citropin-1.1 [K7,8R]",GLFDVIRRVASVIGGL,Human erythrocytes,50% Hemolysis,18.2,µg/ml,18.0,10.76
+13761,Citropin-1.1 [K7R],GLFDVIRKVASVIGGL,Human erythrocytes,50% Hemolysis,>32,µg/ml,32.0,19.46
+13763,Citropin-1.1 [D4E],GLFEVIKKVASVIGGL,Human erythrocytes,50% Hemolysis,>32,µg/ml,32.0,19.63
+13764,Citropin-1.1 [F3W],GLWDVIKKVASVIGGL,Human erythrocytes,50% Hemolysis,16.85,µg/ml,16.0,9.666
+13765,"Citropin-1.1 [F3W, D4R, K7R]",GLWRVIRKVASVIGGL,Human erythrocytes,50% Hemolysis,26.7,µg/ml,26.0,15.08
+13889,Cyclic Tachyplesin-1,KWCFRVCYRGICYRRCRG,Human erythrocytes,50% Hemolysis,106.9±21.0,µM,85.9,85.9
+13890,Cyclic Tachyplesin-2,RWCFRVCYRGICYRKCRG,Human erythrocytes,50% Hemolysis,64.1±9.4,µM,54.7,54.7
+13891,Cyclic Tachyplesin-3,KWCFRVCYRGICYRKCRG,Human erythrocytes,50% Hemolysis,>128,µM,128.0,128.0
+14044,,GIIKKIIKKIIKKI,Human erythrocytes,50% Hemolysis,2000,µM,2000.0,2000.0
+14145,Hymenochirin-1Pa [D9K],LKLSPKTKKTLKKVLKGAIKGAIAIASMA,Human erythrocytes,50% Hemolysis,192±21,µM,171.0,171.0
+14148,Hymenochirin-7B,KIPPVVKDTLKKVAKGVLSAVAGALS,Human erythrocytes,50% Hemolysis,>512,µM,512.0,512.0
+14149,Hymenochirin-10B,IKIPPIVKDTLKKVAKGVLSTVADALSKS,Human erythrocytes,50% Hemolysis,>512,µM,512.0,512.0
+14150,Hymenochirin-12B,LKIPGFVRDTLKKVAKEIFSAVTGAVTQS,Human erythrocytes,50% Hemolysis,256,µM,256.0,256.0
+14203,Brevinin 1-Ia,FLGALLKIGAKVLPSVLCGIFKKC,Human erythrocytes,50% Hemolysis,16.62,µM,16.0,16.0
+14205,Brevinin 2-Ia,GIKSALLGIAKNVGMSLLQKAQCKLSGSC,Human erythrocytes,50% Hemolysis,49.04,µM,49.0,49.0
+14675,"Cathelicidin-6, Myeloid antibacterial peptide 27, BMAP-27",GRFKRFRKKFKKLFKKLSPVIPLLHLG,Human erythrocytes,50% Hemolysis,>>250,µM,250.0,250.0
+14676,Anti-BMAP-27,GEFAQFEQEAQSLEQELSQLEQQLESL,Human erythrocytes,50% Hemolysis,>>250,µM,250.0,250.0
+14677,Cecropin-B,KWKVFKKIEKMGRNIRNGIVKAGPAIAVLGEAKAL,Human erythrocytes,50% Hemolysis,>>250,µM,250.0,250.0
+14678,"Cecropin-B [F5L,I8K,E9I,G12L,I15R,R16I,L29K,G30L,E31Q,K33L]",KWKVLKKKIKMLRNRINGLVKAGPALKVKLQALAL,Human erythrocytes,50% Hemolysis,>>250,µM,250.0,250.0
+14679,Anti-Cecropin-B,EAQNLEKEIAALEQAIQGLEKEIPALAQQIQALEL,Human erythrocytes,50% Hemolysis,>>250,µM,250.0,250.0
+14980,"Chensinin-1 [A2K;G4,7,11W;L12H;K14A;H18L]",SKVWRHWRRFWHRAHRKL,Human erythrocytes,50% Hemolysis,>500,µM,500.0,500.0
+15040,AGG-KR12-GAGG-KR12-G,AGGKRIVQRIKDFLRGAGGKRIVQRIKDFLRG,Human erythrocytes,50% Hemolysis,>40,µM,40.0,40.0
+15043,"AGG-KR12-GAGG-KR12-G [Q8,24K; D12,28K]",AGGKRIVKRIKKFLRGAGGKRIVKRIKKFLRG,Human erythrocytes,50% Hemolysis,10,µM,10.0,10.0
+15563,Defensin BmKDfsin4,GFGCPFNQGQCHKHCQSIRRRGGYCDGFLKTRCVCYR,Human erythrocytes,50% Hemolysis,66.85,µM,66.0,66.0
+15801,"Figainin 2, Figainin-02",FLGAILKIGHALAKTVLPMVTNAFKPKQ,Human erythrocytes,50% Hemolysis,48.9,µM,48.0,48.0
+15913,"Hecate, DP1",FALALKALKKALKKLKKALKKAL,Human erythrocytes,50% Hemolysis,100,µg/ml,100.0,39.4
+15915,"M-Cecropin-B [M12V], HB12, SB-37",MPKWKVFKKIEKVGRNIRNGIVKAGPAIAVLGEAKALG,Human erythrocytes,50% Hemolysis,>1000,µg/ml,1000.0,244.5
+15918,Shiva 10,FAKKLAKKLKKLAKKLAKLALAL,Human erythrocytes,50% Hemolysis,50,µg/ml,50.0,19.7
+15919,FLAKO6,FALALKALKKLKKALKKAL,Human erythrocytes,50% Hemolysis,700,µg/ml,700.0,333.8
+15920,FLAKO6 R,FAKKLAKKLKKLAKLALAL,Human erythrocytes,50% Hemolysis,250,µg/ml,250.0,119.2
+15951,FLAK26,FAKKLAKLAKKLAKLAL,Human erythrocytes,50% Hemolysis,390,µg/ml,390.0,210.1
+15956,Shiva 10 (1-18)-KWKL,FAKKLAKKLKKLAKKLAKKWKL,Human erythrocytes,50% Hemolysis,110,µg/ml,110.0,42.11
+15963,CA(1-7)[W2T]-Shiva 10 (1-16),KTKLFKKFAKKLAKKLKKLAKKL,Human erythrocytes,50% Hemolysis,900,µg/ml,900.0,329.5
+15964,CA(1-7)-CA(1-7)[W2T]-Shiva 10 (1-9) ,KWKLFKKKTKLFKKFAKKLAKKL,Human erythrocytes,50% Hemolysis,8,µg/ml,8.0,2.777
+15979,Shiva-11 (1-16)-ME(2-8),FAKKLAKKLKKLAKKLIGAVLKV,Human erythrocytes,50% Hemolysis,25,µg/ml,25.0,9.851
+16001,Lr-AMP1e,GIAGLLRSFVRMLAKIMGG,Human erythrocytes,50% Hemolysis,128,µg/ml,128.0,64.29
+16253,Indolicidin cyclic,ILPWKWPWWPWRR,Human erythrocytes,50% Hemolysis,166.7±25.82,µg/ml,140.88,20.97
+16469,"Magainin-2 [G3K,S8I,A9I,K10W,G13I]",GIKKFLHIIWKFIKAFVGEIMNS,Human erythrocytes,50% Hemolysis,2.9,µM,2.0,2.0
+16470,"Magainin-2 [G1I,G3K,A9I,K10W]",IIKKFLHSIWKFGKAFVGEIMNI,Human erythrocytes,50% Hemolysis,16,µM,16.0,16.0

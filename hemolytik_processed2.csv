@@ -1,0 +1,108 @@
+ID,Name,Sequence,C-MODIFICATION,N-MODIFICATION,LINEAR/CYCLIC,STEREOCHEMISTRY,MODIFIED-RESIDUE,FUNCTION,ACTIVITY,RBC_SOURCE,LENGTH
+1075,Vejovine,GIWSSIKNLASKAWNSDIGQSLRNKAAGAINKFVADKIGVTPSQAAS,Free,Free,Linear,L,None,Antibacterial,HC50 =100μM,Human,47
+1109,Piscidin 1 (Pis-1),FFHHIFRGIVHVGKTIHRLVTG,Free,Free,Linear,L,None,Cytotoxic,HC50 =11μM,Human,22
+1110,Pis-1 AG,FFHHIFRAIVHVGKTIHRLVTG,Free,Free,Linear,L,None,Cytotoxic,HC50 =4μM,Human,22
+1111,Pis-1 GA,FFHHIFRGIVHVAKTIHRLVTG,Free,Free,Linear,L,None,Cytotoxic,HC50 =4μM,Human,22
+1112,Pis-1 AA,FFHHIFRAIVHVAKTIHRLVTG,Free,Free,Linear,L,None,Cytotoxic,HC50 =6μM,Human,22
+1113,Pis-1 PG,FFHHIFRPIVHVGKTIHRLVTG,Free,Free,Linear,L,None,Cytotoxic,HC50 >200μM,Human,22
+1114,Pis-1 GP,FFHHIFRGIVHVPKTIHRLVTG,Free,Free,Linear,L,None,Cytotoxic,HC50 >200μM,Human,22
+1115,Pis-1 PP,FFHHIFRPIVHVPKTIHRLVTG,Free,Free,Linear,L,None,Cytotoxic,HC50 >200μM,Human,22
+1116,Pis-1 AP,FFHHIFRAIVHVPKTIHRLVTG,Free,Free,Linear,L,None,Cytotoxic,HC50 =75μM,Human,22
+1117,Pis-1 PA,FFHHIFRPIVHVAKTIHRLVTG,Free,Free,Linear,L,None,Cytotoxic,HC50 =32μM,Human,22
+1163,PC1,RGGRLCYCRRRFCVCVGR,Free,Free,Linear,L,None,Antimicrobial,>50% hemolysis at 80μg/ml,Human,18
+1164,PC3,RGGGLCYCRRRFCVCVGR,Free,Free,Linear,L,None,Antimicrobial,>50% hemolysis at 80μg/ml,Human,18
+1165,PC4,RGGRLCYCRGWICFCVGR,Free,Free,Linear,L,None,Antimicrobial,>50% hemolysis at 80μg/ml,Human,18
+1166,PC5,RGGRLCYCRPRFCVCVGR,Free,Free,Linear,L,None,Antimicrobial,>50% hemolysis at 80μg/ml,Human,18
+1169,PC11,LCYCRRRFCVCVGR,Free,Free,Linear,L,None,Antimicrobial,>50% hemolysis at 80μg/ml,Human,14
+1171,PC13,RGGRLCYCRRRFCVCV,Free,Free,Linear,L,None,Antimicrobial,>50% hemolysis at 80μg/ml,Human,16
+1172,PC14,RGGRLCYCRRRFCICV,Free,Free,Linear,L,None,Antimicrobial,>50% hemolysis at 80μg/ml,Human,16
+1175,PC17,LCYCRRRFCVCV,Free,Free,Linear,L,None,Antimicrobial,>50% hemolysis at 80μg/ml,Human,12
+1195,PC91,YCYCRRRFCVCVGR,Free,Free,Linear,L,None,Antimicrobial,25-50% hemolysis at 80μg/ml,Human,14
+1197,PC93,ACYCRRRFCVCVGR,Free,Free,Linear,L,None,Antimicrobial,25-50% hemolysis at 80μg/ml,Human,14
+1198,PC94,VCYCRRRFCVCVGR,Free,Free,Linear,L,None,Antimicrobial,>50% hemolysis at 80μg/ml,Human,14
+1199,PC95,ICYCRRRFCVCVGR,Free,Free,Linear,L,None,Antimicrobial,>50% hemolysis at 80μg/ml,Human,14
+1200,PC96,FCYCRRRFCVCVGR,Free,Free,Linear,L,None,Antimicrobial,>50% hemolysis at 80μg/ml,Human,14
+1201,PC97,WCYCRRRFCVCVGR,Free,Free,Linear,L,None,Antimicrobial,>50% hemolysis at 80μg/ml,Human,14
+1203,PC100,RGGRLCYCRRRFCVCY,Free,Free,Linear,L,None,Antimicrobial,>50% hemolysis at 80μg/ml,Human,16
+1205,PC102,RGGRLCYCRRRFCVCA,Free,Free,Linear,L,None,Antimicrobial,25-50% hemolysis at 80μg/ml,Human,16
+1206,PC103,RGGRLCYCRRRFCVCL,Free,Free,Linear,L,None,Antimicrobial,>50% hemolysis at 80μg/ml,Human,16
+1207,PC104,RGGRLCYCRRRFCVCI,Free,Free,Linear,L,None,Antimicrobial,>50% hemolysis at 80μg/ml,Human,16
+1208,PC105,RGGRLCYCRRRFCVCF,Free,Free,Linear,L,None,Antimicrobial,>50% hemolysis at 80μg/ml,Human,16
+1209,PC106,RGGRLCYCRRRFCVCW,Free,Free,Linear,L,None,Antimicrobial,>50% hemolysis at 80μg/ml,Human,16
+1217,PC147,LCYCRRRFCFCV,Free,Free,Linear,L,None,Antimicrobial,>50% hemolysis at 80μg/ml,Human,12
+1220,PC150,LCYCRRRFCWCV,Free,Free,Linear,L,None,Antimicrobial,25-50% hemolysis at 80μg/ml,Human,12
+1615,Ranatuerin-2AUa,GILSSFKGVAKGVAKNLAGKLLDELKCKITGC,Free,Free,Linear,L,None,Antimicrobial,HC50 =290µM,Human,32
+1616,Brevinin-1AUa,FLPILAGLAAKLVPKVFCSITKKC,Free,Free,Linear,L,None,Antimicrobial,HC50 =5µM,Human,24
+1617,Brevinin-1AUb,FLPILAGLAANILPKVFCSITKKC,Free,Free,Linear,L,None,Antimicrobial,HC50 =7µM,Human,24
+1668,P1,VSAVAKVAMKKGAALLKKMGVKISPLK,Free,Free,Linear,L,None,Hemolytic,50% hemolysis at >900µM,Human,27
+1669,P2,KQLKKVSAVAKVAMKKGAALLKKMGVK,Free,Free,Linear,L,None,Hemolytic,50% hemolysis at 450µM,Human,27
+1670,P3,VGKVLKQLKKVSAVAKVAMKKGAALLK,Free,Free,Linear,L,None,Hemolytic,50% hemolysis at >900µM,Human,27
+1671,P4,KFGKIVGKVLKQLKKVSAVAKVAMKKG,Free,Free,Linear,L,None,Hemolytic,50% hemolysis at 274µM,Human,27
+1672,P5,GKVLDKFGKIVGKVLKQLKKVSAVAKV,Free,Free,Linear,L,None,Hemolytic,50% hemolysis at 117µM,Human,27
+1673,P6,FKIKPGKVLDKFGKIVGKVLKQLKKVSAVAKV,Free,Free,Linear,L,None,Hemolytic,50% hemolysis at 90µM,Human,32
+1674,P7,FKIKPGKVLDKFGKIVGKVLKQLKKVS,Free,Free,Linear,L,None,Hemolytic,50% hemolysis at 296µM,Human,27
+1989,Brevinin-2PRa,GLMSLFKGVLKTAGKHIFKNVGGSLLDQAKCKITGEC,Free,Free,Linear,L,None,Antimicrobial,HC50 =55µM,Human,37
+1990,Brevinin-2PRb,GLMSLFRGVLKTAGKHIFKNVGGSLLDQAKCKITGEC,Free,Free,Linear,L,None,Antimicrobial,HC50 =65µM,Human,37
+1991,Brevinin-2PRc,GLMSVLKGVLKTAGKHIFKNVGGSLLDQAKCKISGQC,Free,Free,Linear,L,None,Antimicrobial,HC50 =125µM,Human,37
+1992,Brevinin-2PRd,GLMSVLKGVLKTAGKHIFKNVGGSLLDQAKCKITGQC,Free,Free,Linear,L,None,Antimicrobial,HC50 =100µM,Human,37
+1993,Brevinin-2PRe,GLLSVLKGVLKTAGKHIFKNVGGSLLDQAKCKISGEC,Free,Free,Linear,L,None,Antimicrobial,HC50 =80µM,Human,37
+1994,Ranatuerin-2PRa,GLMDVFKGAAKNLLASALDKIRCKVTKC,Free,Free,Linear,L,None,Antimicrobial,HC50 =150µM,Human,28
+1995,Brevinin-1PRa,FLSLALAALPKLFCLIFKKC,Free,Free,Linear,L,None,Antimicrobial,HC50 =7µM,Human,20
+2323,Brevinin-1BYa,FLPILASLAAKFGPKLFCLVTKKC,Free,Free,Linear,L,None,Antibacterial,HC50 =4µM,Human,24
+2324,Brevinin-1BYb,FLPILASLAAKLGPKLFCLVTKKC,Free,Free,Linear,L,None,Antibacterial,HC50 =4µM,Human,24
+2326,Ranatuerin-2BYa,GILSTFKGLAKGVAKDLAGNLLDKFKCKITGC,Free,Free,Linear,L,None,Antibacterial,HC50 =120µM,Human,32
+2327,Ranatuerin-2BYb,GIMDSVKGLAKNLAGKLLDSLKCKITGC,Free,Free,Linear,L,None,Antibacterial,HC50 >200µM,Human,28
+2477,Palustrin-3AR,GIFPKIIGKGIVNGIKSLAKGVGMKVFKAGLNNIGNTGCNNRDEC,Free,Free,Linear,L,None,Antibacterial,HC50 =200µM,Human,45
+2478,Esculentin-1ARa,GIFSKINKKKAKTGLFNIIKTVGKEAGMDVIRAGIDTISCKIKGEC,Free,Free,Linear,L,None,Antibacterial,HC50 =180µM,Human,46
+2479,Esculentin-1ARb,GLFPKFNKKKVKTGIFDIIKTVGKEAGMDVLRTGIDVIGCKIKGEC,Free,Free,Linear,L,None,Antibacterial,HC50 =120µM,Human,46
+2480,Ranatuerin-2ARa,GLMDTVKNAAKNLAGQLLDTIKCKMTGC,Free,Free,Linear,L,None,Antibacterial,HC50 =100µM,Human,28
+2481,Ranatuerin-2ARb,GILDTIKNAAKTVAVGLLEKIKCKMTGC,Free,Free,Linear,L,None,Antibacterial,HC50 =150µM,Human,28
+2482,Palustrin-2AR,GFISTVKNLATNVAGTVIDTIKCKVTGGC,Free,Free,Linear,L,None,Antibacterial,HC50 >300µM,Human,29
+2671,Kn2-7,FIKRIARLLRKIF,Free,Free,Linear,L,None,Antimicrobial,HC50 =90.27µg/mL,Human,13
+2672,BmKn2,FIGAIARLLSKIF,Free,Free,Linear,L,None,Antimicrobial,HC50 =17.13µg/mL,Human,13
+2713,DSE,GWLDVAKKIGKAAFNVAKNFLFNKAVNFAAKGIKKAVDLWG,Free,Free,Linear,L,None,Antimicrobial,HC50 =0.6±0.1μmol/L,Human,42
+3046,Gr-1L(25-50),SVSNAATRVCRTGRSRWRDVCRNFMR,Free,Free,Linear,L,None,Antimicrobial,40-50% hemolysis at 100μM,Human,26
+3047,Gr-1C(25-50),SVSNAATRVCRTGRSRWRDVCRNFMR,Free,Free,Cyclic,L,None,Antimicrobial,40-50% hemolysis at 100μM,Human,26
+3048,Gr-2 (25-50),SVSNAATRVARTGRSRWRDVARNFMR,Free,Free,Linear,L,None,Antimicrobial,40-50% hemolysis at 100μM,Human,26
+3161,Brevinin-1ZHa,FLPFLLSALPKVFCFFSKKC,Free,Free,Cyclic,L,None,Antimicrobial,HC50 =3μM,Human,20
+3162,Brevinin-1ZHb,FLPLLLSALPSFLCLVFKKC,Free,Free,Cyclic,L,None,Antimicrobial,HC50 =5μM,Human,20
+3163,Brevinin-2ZHa,GIMRVFKGVLKTAGKSVAKNVAGSFLDRLKCKISGGC,Free,Free,Cyclic,L,None,Antimicrobial,HC50 =52μM,Human,37
+3164,Ranatuerin-2ZHa,GLADYWRTAFRANFANLGPGIRCKSARC,Free,Free,Linear,L,None,Antimicrobial,HC50 >64μM,Human,28
+3165,Chensinin-1ZHa,LALKSGGWLRLFGLKDKKH,Free,Free,Linear,L,None,Antimicrobial,HC50 >92μM,Human,19
+3258,WT,FLGFLKNLF,Free,Free,Linear,L,None,Antiviral,HC50 =137.9μg/ml,Human,9
+3259,H2,FLGFLHHLF,Free,Free,Linear,L,None,Antiviral,HC50 =203.3μg/ml,Human,9
+3260,H3,FLHFLHHLF,Free,Free,Linear,L,None,Antiviral,HC50 =416.4μg/ml,Human,9
+3396,Kalata B1,CTCSWPVCTRNGLPVCGETCVGGTCNTPG,Free,Free,Cyclic,L,None,Antimicrobial,50% hemolysis at >400μM,Human,29
+3397,Cir A,CSCKNKVCYRNGIPCGESCVWIPCISAALG,Free,Free,Cyclic,L,None,Antimicrobial,50% hemolysis at >400μM,Human,30
+3398,Cir B,CSCKNKVCYRNGVIPCGESCVFIPCISTLLG,Free,Free,Cyclic,L,None,Antimicrobial,50% hemolysis at >400μM,Human,30
+3399,CPT,CSCKSKVCYKNSIPCGESCVFIPCTVTALLG,Free,Free,Cyclic,L,None,Antimicrobial,50% hemolysis at >400μM,Human,30
+3476,XT-1,GFLGPLLKLAAKGVAKVIPHLIPSRQQ,Free,Free,Linear,L,None,Antimicrobial,HC50 =90μM,Human,27
+3477,XT-4,GVFLDALKKFAKGGMNAVLNPK,Free,Free,Linear,L,None,Antimicrobial,HC50 >150μM,Human,22
+3490,Brevinin-1CDYa,FLSLALAALPKLFCLIFKKC,Free,Free,Linear,L,None,Antimicrobial,HC50 =125μM,Human,20
+3491,Japonicin-1CDYa,FFPLALLCKVFKKC,Free,Free,Linear,L,None,Antimicrobial,HC50 >300μM,Human,14
+3493,Dybowskin-1CDYa,IIPLPLGYFAKKT,Free,Free,Linear,L,None,Antimicrobial,HC50 >300μM,Human,13
+3494,Dybowskin-2CDYa,SAVGRHGRRFGLRKHRKH,Free,Free,Linear,L,None,Antimicrobial,HC50 >300μM,Human,18
+3674,Pardaxin,GFFALIPKIISSPLFKTLLSAVGSALSSSGGQE,Free,Free,Linear,L,None,Antibacterial,>50% hemolysis at 50µM,Human,33
+3752,Parabutoporin,FKLGSFLKKAWKSKLAKKLRAKGKEMLKDYAKGLLEGGSEEVPGQ,Free,Free,Linear,L,None,Antibacterial and Antifungal,50% hemolysis at 38µM,Human,45
+3806,DS3,HALWKNMLKGIGKLAGKAALGAVKKLVGAES,Free,Free,Linear,L,None,Cytotoxic,50% hemolysis at 50μM,Human,31
+3997,Cycloviolacin O1,CAESCVYIPCTVTALLGCSCSNRVCYNGIP,Free,Free,Cyclic,L,None,Anti-HIV,50% hemolysis at ~20μM,Human,30
+3998,Cycloviolacin O2,CGESCVWIPCISSAIGCSCKSKVCYRNGIP,Free,Free,Cyclic,L,None,Anti-HIV,50% hemolysis at ~20μM,Human,30
+3999,Cycloviolacin O3,CGESCVWIPCLTSAIGCSCKSKVCYRNGIP,Free,Free,Cyclic,L,None,Anti-HIV,50% hemolysis at ~20μM,Human,30
+4000,Cycloviolacin O4,CGESCVWIPCISSAIGCSCKNKVCYRNGIP,Free,Free,Cyclic,L,None,Anti-HIV,50% hemolysis at ~20μM,Human,30
+4001,Cycloviolacin O5,CGESCVWIPCISSAVGCSCKNKVCYKNGTP,Free,Free,Cyclic,L,None,Anti-HIV,50% hemolysis at ~20μM,Human,30
+4002,Cycloviolacin O6,CGESCVWIPCISAAVGCSCKSKVCYKNGTLP,Free,Free,Cyclic,L,None,Anti-HIV,50% hemolysis at ~20μM,Human,31
+4003,Cycloviolacin O7,CGESCVWIPCTITALAGCKCKSKVCYNSIP,Free,Free,Cyclic,L,None,Anti-HIV,50% hemolysis at ~20μM,Human,30
+4004,Cycloviolacin O8,CESCVWIPCISSVVGCSCKSKVCYKNGTLP,Free,Free,Cyclic,L,None,Anti-HIV,50% hemolysis at ~20μM,Human,30
+4005,Cycloviolacin O9,CGESCVWIPCLTSAVGCSCKSKVCYRNGIP,Free,Free,Cyclic,L,None,Anti-HIV,50% hemolysis at ~20μM,Human,30
+4006,Cycloviolacin O10,CGESCVYIPCLTSAVGCSCKSKVCYRNGIP,Free,Free,Cyclic,L,None,Anti-HIV,50% hemolysis at ~20μM,Human,30
+4007,Cycloviolacin O11,CGESCVWIPCISAVVGCSCKSKVCYKNGTLP,Free,Free,Cyclic,L,None,Anti-HIV,50% hemolysis at ~20μM,Human,31
+4008,Cycloviolacin H1,CGESCVYIPCLTSAIGCSCKSKVCYRNGIP,Free,Free,Cyclic,L,None,Anti-HIV,50% hemolysis at ~20μM,Human,30
+4009,Kalata B5,CGESCVYIPCISGVIGCSCTDKVCYLNGTP,Free,Free,Cyclic,L,None,Anti-HIV,50% hemolysis at ~20μM,Human,30
+4010,Circulin A,CGESCVWIPCISAALGCSCKNKVCYRNGIP,Free,Free,Cyclic,L,None,Anti-HIV,50% hemolysis at ~20μM,Human,30
+4011,Circulin B,CGESCVFIPCISTLLGCSCKNKVCYRNGVIP,Free,Free,Cyclic,L,None,Anti-HIV,50% hemolysis at ~20μM,Human,31
+4012,Cyclopsychotride A,CGESCVFIPCVTALLGCSCKSKVCYKNSIP,Free,Free,Cyclic,L,None,Anti-HIV,50% hemolysis at ~20μM,Human,30
+4013,Violapeptide I,VCGETCVGGTCNTPGCSCSRPVCTRNGLP,Free,Free,Cyclic,L,None,Anti-HIV,50% hemolysis at ~20μM,Human,29
+4014,Cycloviolacin O12,ICGETCVGGTCNTPGCSCSWPVCTRNGLP,Free,Free,Cyclic,L,None,Anti-HIV,50% hemolysis at ~20μM,Human,29
+4015,Kalata B2,VCGETCFGGTCNTPGCSCTWPICTRDGLP,Free,Free,Cyclic,L,None,Anti-HIV,50% hemolysis at ~20μM,Human,29
+4016,Kalata B3,TCGETCFGGTCNTPGCTCDPWPICTDRGLP,Free,Free,Cyclic,L,None,Anti-HIV,50% hemolysis at ~20μM,Human,30
+4017,Kalata B4,VCGETCVGGTCNTPGCTCSWPVCTRDGLP,Free,Free,Cyclic,L,None,Anti-HIV,50% hemolysis at ~20μM,Human,29

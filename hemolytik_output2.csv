@@ -1,0 +1,106 @@
+ID,Name,Sequence,C-MODIFICATION,N-MODIFICATION,LINEAR/CYCLIC,STEREOCHEMISTRY,MODIFIED-RESIDUE,FUNCTION,ACTIVITY,RBC_SOURCE,LENGTH
+4033,P1,KSLRPRCWIKIKFRCKSLKF,Free,Free,Linear,L,None,Antimicrobial,7.8% hemolysis at 1mg/ml,Human,20
+4034,P1,KSLRPRCWIKIKFRCKSLKF,Free,Free,Linear,L,None,Antimicrobial,1.5% hemolysis at 0.0625mg/ml,Rabbit,20
+4035,P1,KSLRPRCWIKIKFRCKSLKF,Free,Free,Linear,L,None,Antimicrobial,7.2% hemolysis at 0.125mg/ml,Rabbit,20
+4036,P1,KSLRPRCWIKIKFRCKSLKF,Free,Free,Linear,L,None,Antimicrobial,7.8% hemolysis at 0.25mg/ml,Rabbit,20
+4037,P1,KSLRPRCWIKIKFRCKSLKF,Free,Free,Linear,L,None,Antimicrobial,9.5% hemolysis at 0.5mg/ml,Rabbit,20
+4038,P1,KSLRPRCWIKIKFRCKSLKF,Free,Free,Linear,L,None,Antimicrobial,57.1% hemolysis at 1mg/ml,Rabbit,20
+4039,P2,RPRCWIKIKFRCKSLKF,Free,Free,Linear,L,None,Antimicrobial,0.6% hemolysis at 0.0625mg/ml,Human,17
+4040,P2,RPRCWIKIKFRCKSLKF,Free,Free,Linear,L,None,Antimicrobial,0.8% hemolysis at 0.125mg/ml,Human,17
+4041,P2,RPRCWIKIKFRCKSLKF,Free,Free,Linear,L,None,Antimicrobial,5.2% hemolysis at 0.25mg/ml,Human,17
+4042,P2,RPRCWIKIKFRCKSLKF,Free,Free,Linear,L,None,Antimicrobial,5.3% hemolysis at 0.5mg/ml,Human,17
+4043,P2,RPRCWIKIKFRCKSLKF,Free,Free,Linear,L,None,Antimicrobial,11.3% hemolysis at 1mg/ml,Human,17
+4044,P2,RPRCWIKIKFRCKSLKF,Free,Free,Linear,L,None,Antimicrobial,2.2% hemolysis at 0.0625mg/ml,Rabbit,17
+4045,P2,RPRCWIKIKFRCKSLKF,Free,Free,Linear,L,None,Antimicrobial,4.7% hemolysis at 0.125mg/ml,Rabbit,17
+4046,P2,RPRCWIKIKFRCKSLKF,Free,Free,Linear,L,None,Antimicrobial,5.2% hemolysis at 0.25mg/ml,Rabbit,17
+4047,P2,RPRCWIKIKFRCKSLKF,Free,Free,Linear,L,None,Antimicrobial,12.4% hemolysis at 0.5mg/ml,Rabbit,17
+4048,P2,RPRCWIKIKFRCKSLKF,Free,Free,Linear,L,None,Antimicrobial,66.3% hemolysis at 1mg/ml,Rabbit,17
+4049,Temporin-1TGb,AVDLAKIANKVLSSLF,Amidation,Free,Linear,L,None,Antimicrobial,LD50 =250μM,Human,16
+4050,Temporin-1TGc,FLPVILPVIGKLLSGIL,Amidation,Free,Linear,L,None,Antimicrobial,LD50 =50μM,Human,17
+4051,Ltc1,SMWSGMWRRKLKKLRNALKKKLKGE,Free,Free,Linear,L,None,Antimicrobial,20% hemolysis at 80μM,Rabbit,25
+4052,Ltc2a,GLFGKLIKKFGRKAISYAVKKARGKH,Free,Free,Linear,L,None,Antimicrobial,20% hemolysis at 6.0μM,Rabbit,26
+4053,Ltc3a,SWKSMAKKLKEYMEKLKQRA,Amidation,Free,Linear,L,None,Antimicrobial,20% hemolysis at >120μM,Rabbit,20
+4054,Ltc3b,SWASMAKKLKEYMEKLKQRA,Amidation,Free,Linear,L,None,Antimicrobial,20% hemolysis at >120μM,Rabbit,20
+4055,Ltc4a,GLKDKFKSMGEKLKQYIQTWKAKF,Amidation,Free,Linear,L,None,Antimicrobial,20% hemolysis at >120μM,Rabbit,24
+4056,Ltc4b,SLKDKVKSMGEKLKQYIQTWKAKF,Amidation,Free,Linear,L,None,Antimicrobial,20% hemolysis at >120μM,Rabbit,24
+4057,Ltc5,GFFGKMKEYFKKFGASFKRRFANLKKRL,Amidation,Free,Linear,L,None,Antimicrobial,20% hemolysis at 40μM,Rabbit,28
+4058,MRP,FLPILGKLLSGIL,Amidation,Free,Linear,L,None,Antimicrobial,LC50 = 8μM,Human,10
+4063,Pin2,FWGALAKGALKLIPSLFSSFSKKD,Free,Free,Linear,L,None,Antimicrobial,7% hemolysis at 1μM,Guinea-pig,24
+4064,Pin2,FWGALAKGALKLIPSLFSSFSKKD,Free,Free,Linear,L,None,Antimicrobial,50% hemolysis at 6μM,Guinea-pig,24
+4065,Pin2,FWGALAKGALKLIPSLFSSFSKKD,Free,Free,Linear,L,None,Antimicrobial,85% hemolysis at 12.5μM,Guinea-pig,24
+4066,Pin2,FWGALAKGALKLIPSLFSSFSKKD,Free,Free,Linear,L,None,Antimicrobial,100% hemolysis at 25μM,Guinea-pig,24
+4067,Oxki1,FRGLAKLLKIGLKSFARVLKKVLPKAAKAGKALAKSMADENAIRQQNQ,Free,Free,Linear,L,None,Antimicrobial,10% hemolysis at 2.5μM,Guinea-pig,48
+4068,Oxki1,FRGLAKLLKIGLKSFARVLKKVLPKAAKAGKALAKSMADENAIRQQNQ,Free,Free,Linear,L,None,Antimicrobial,25% hemolysis at 6μM,Guinea-pig,48
+4069,Oxki1,FRGLAKLLKIGLKSFARVLKKVLPKAAKAGKALAKSMADENAIRQQNQ,Free,Free,Linear,L,None,Antimicrobial,50% hemolysis at 12.5μM,Guinea-pig,48
+4070,Oxki1,FRGLAKLLKIGLKSFARVLKKVLPKAAKAGKALAKSMADENAIRQQNQ,Free,Free,Linear,L,None,Antimicrobial,60% hemolysis at 25μM,Guinea-pig,48
+4071,Kassinatuerin-1,GFMKYIGPLIPHAVKAISDLI,Amidation,Free,Linear,L,None,Antimicrobial,LD50 =65μM,Human,21
+4072,Kassinatuerin-1 (10-21)fragment,IPHAVKAISDLI,Amidation,Free,Linear,L,None,Antimicrobial,0% hemolysis at 400μM,Human,12
+4073,Kassinatuerin-1 (Lys13),GFMKYIGPLIPHKVKAISDLI,Amidation,Free,Linear,L,None,Antimicrobial,32% hemolysis at 400μM,Human,21
+4074,Kassinatuerin-1 (Lys19),GFMKYIGPLIPHAVKAISKLI,Amidation,Free,Linear,L,None,Antimicrobial,LD50 =45μM,Human,21
+4075,"Kassinatuerin-1 (Lys18, Lys19)",GFMKYIGPLIPHAVKAIKKLI,Amidation,Free,Linear,L,None,Antimicrobial,LD50 =25μM,Human,21
+4076,"Kassinatuerin-1 (Lys7, Lys19)",GFMKYIKPLIPHAVKAISKLI,Amidation,Free,Linear,L,None,Antimicrobial,LD50 =55μM,Human,21
+4077,"Kassinatuerin-1 (Lys7, Lys18, Lys19)",GFMKYIKPLIPHAVKAIKKLI,Amidation,Free,Linear,L,None,Antimicrobial,LD50 =40μM,Human,21
+4078,Kassinatuerin-1 (COOH),GFMKYIGPLIPHAVKAISDLI,Free,Free,Linear,L,None,Antimicrobial,39% hemolysis at 400μM,Human,21
+4079,Kassinatuerin-1 (Lys19)(COOH),GFMKYIGPLIPHAVKAISKLI,Free,Free,Linear,L,None,Antimicrobial,LD50 =120μM,Human,21
+4080,"Kassinatuerin-1 (Lys7, Lys19)(COOH)",GFMKYIKPLIPHAVKAISKLI,Free,Free,Linear,L,None,Antimicrobial,LD50 =135μM,Human,21
+4081,"Kassinatuerin-1 (Lys7, Lys18, Lys19) (COOH)",GFMKYIKPLIPHAVKAIKKLI,Free,Free,Linear,L,None,Antimicrobial,LD50 =200μM,Human,21
+4082,Maganin 2,GIGKFLHSAKKFGKAFVGEIMNS,Free,Free,Linear,L,None,Antiparasitic,4% hemolysis at 50μg/ml,Human,23
+4083,Maganin 2,GIGKFLHSAKKFGKAFVGEIMNS,Free,Free,Linear,L,None,Antiparasitic,3% hemolysis at 100μg/ml,Human,23
+4084,Maganin 2,GIGKFLHSAKKFGKAFVGEIMNS,Free,Free,Linear,L,None,Antiparasitic,3% hemolysis at 200μg/ml,Human,23
+4085,Maganin 2,GIGKFLHSAKKFGKAFVGEIMNS,Free,Free,Linear,L,None,Antiparasitic,4% hemolysis at 500μg/ml,Human,23
+4086,Maganin 2,GIGKFLHSAKKFGKAFVGEIMNS,Free,Free,Linear,L,None,Antiparasitic,6% hemolysis at 1000μg/ml,Human,23
+4087,XPF,GWASKIGQTLGKIAKVGLKELIQPK,Free,Free,Linear,L,None,Antiparasitic,1% hemolysis at 50μg/ml,Human,24
+4088,XPF,GWASKIGQTLGKIAKVGLKELIQPK,Free,Free,Linear,L,None,Antiparasitic,1% hemolysis at 100μg/ml,Human,24
+4089,XPF,GWASKIGQTLGKIAKVGLKELIQPK,Free,Free,Linear,L,None,Antiparasitic,2% hemolysis at 200μg/ml,Human,24
+4090,XPF,GWASKIGQTLGKIAKVGLKELIQPK,Free,Free,Linear,L,None,Antiparasitic,5% hemolysis at 500μg/ml,Human,24
+4091,XPF,GWASKIGQTLGKIAKVGLKELIQPK,Free,Free,Linear,L,None,Antiparasitic,6% hemolysis at 1000μg/ml,Human,24
+4092,PGLa,GMASKAGAIAGKIAKVALKAL,Amidation,Free,Linear,L,None,Antiparasitic,4% hemolysis at 50μg/ml,Human,21
+4093,PGLa,GMASKAGAIAGKIAKVALKAL,Amidation,Free,Linear,L,None,Antiparasitic,3% hemolysis at 100μg/ml,Human,21
+4094,PGLa,GMASKAGAIAGKIAKVALKAL,Amidation,Free,Linear,L,None,Antiparasitic,4% hemolysis at 200μg/ml,Human,21
+4095,PGLa,GMASKAGAIAGKIAKVALKAL,Amidation,Free,Linear,L,None,Antiparasitic,5% hemolysis at 500μg/ml,Human,21
+4096,PGLa,GMASKAGAIAGKIAKVALKAL,Amidation,Free,Linear,L,None,Antiparasitic,7% hemolysis at 1000μg/ml,Human,21
+4097,P,ALWKTLLKKVLKA,Amidation,Free,Linear,L,None,Antimicrobial,5% hemolysis at 10μM,Human,13
+4098,K4-S4(1-13)NH2,ALWKTLLKKVLKA,Amidation,Free,Linear,L,None,Antiparasitic,3% hemolysis at 10μM,Human,13
+4099,Glycyl-P,ALWKTLLKKVLKA,Amidation,H2N-CH2-CO-P,Linear,L,None,Antiparasitic,2% hemolysis at 10μM,Human,13
+4100,Aminobutyryl-P,ALWKTLLKKVLKA,Amidation,H2N-(CH2)3-CO-P,Linear,L,None,Antiparasitic,1% hemolysis at 10μM,Human,13
+4101,Aminoheptanoyl-P,ALWKTLLKKVLKA,Amidation,H2N-(CH2)6-CO-P,Linear,L,None,Antiparasitic,1% hemolysis at 10μM,Human,13
+4102,Aminolauroyl-P,ALWKTLLKKVLKA,Amidation,H2N-(CH2)11-CO-P,Linear,L,None,Antiparasitic,4% hemolysis at 10μM,Human,13
+4103,Lysyl-P,ALWKTLLKKVLKA,Amidation,H2N-C((CH2)4-NH2)H-CO-P,Linear,L,None,Antiparasitic,5% hemolysis at 10μM,Human,13
+4104,DS 01,GLWSTIKQKGKEAAIAAAKAAGQAALGAL,Amidation,Free,Linear,L,None,Antiparasitic,0.41% hemolysis at 4μg/ml,Human,29
+4105,DS 01,GLWSTIKQKGKEAAIAAAKAAGQAALGAL,Amidation,Free,Linear,L,None,Antiparasitic,0.54% hemolysis at 8μg/ml,Human,29
+4106,DS 01,GLWSTIKQKGKEAAIAAAKAAGQAALGAL,Amidation,Free,Linear,L,None,Antiparasitic,0.81% hemolysis at 16μg/ml,Human,29
+4107,DS 01,GLWSTIKQKGKEAAIAAAKAAGQAALGAL,Amidation,Free,Linear,L,None,Antiparasitic,1.08% hemolysis at 32μg/ml,Human,29
+4108,DS 01,GLWSTIKQKGKEAAIAAAKAAGQAALGAL,Amidation,Free,Linear,L,None,Antiparasitic,1.36% hemolysis at 64μg/ml,Human,29
+4109,DS 01,GLWSTIKQKGKEAAIAAAKAAGQAALGAL,Amidation,Free,Linear,L,None,Antiparasitic,2.17% hemolysis at 128μg/ml,Human,29
+4110,Temporin A,FLPLIGRVLSGIL,Amidation,Free,Linear,L,None,Antiparasitic,LC50 >120μM,Human,13
+4111,Temporin B,LLPIVGNLLKSLL,Amidation,Free,Linear,L,None,Antiparasitic,LC50 >120μM,Human,13
+4135,Kalata B1,CGETCVGGTCNTPGCTCSWPVCTRNGLPV,Free,Free,Cyclic,L,None,Uterotonic,HD50 =50μM,Human,29
+4136,Circulin B,CGESCVFIPCISTLLGCSCKNKVCYRNGVIP,Free,Free,Cyclic,L,None,Uterotonic,HD50 =30μM,Human,30
+4146,Temporin-CPa,IPPFIKKVLTTVF,Amidation,Free,Linear,L,None,Antimicrobial,LC50 =220μM,Human,12
+4147,Temporin-DRa,HFLGTLVNLAKKIL,Amidation,Free,Linear,L,None,Antimicrobial,LC50 =65μM,Human,14
+4148,Temporin L,FVQWFSKFLGRIL,Amidation,Free,Linear,L,None,Antimicrobial,LC50 =2μM,Human,13
+4149,Mastoparan 7,INLKALAALAKALL,Amidation,Free,Linear,L,None,Antimicrobial,100% hemolysis at 25 µM,Bovine,14
+4158,Kalata B1,GLPVCGETCVGGTCNTPGCTCSWPVCTRN,Free,Free,Cyclic,L,None,Pesticidal,HD50 =20.0±1.1μM,Human,30
+4159,Kalata B7,GLPVCGETCTLGTCYTQGCTCSWPICKRN,Free,Free,Cyclic,L,None,Pesticidal,HD50 =55.2±1.3μM,Human,30
+4168,HP(2-9)-ME(1-12),AKKVFKRLGIGAVLKVLTTG,Free,Free,Linear,L,None,Antimicrobial,0% hemolysis upto 100µM,Human,20
+4169,HM1,AKKVFKRLGIGAVLWVLTTG,Free,Free,Linear,L,None,Antimicrobial,13% hemolysis at 25µM,Human,20
+4170,HM1,AKKVFKRLGIGAVLWVLTTG,Free,Free,Linear,L,None,Antimicrobial,1% hemolysis at 12.5µM,Human,20
+4171,HM1,AKKVFKRLGIGAVLWVLTTG,Free,Free,Linear,L,None,Antimicrobial,0% hemolysis at 6.25µM,Human,20
+4172,HM2,AKKVFKRLGIGAVLKVLTWG,Free,Free,Linear,L,None,Antimicrobial,0% hemolysis upto 100µM,Human,20
+4173,HM3,AKKVFKRLGIGAVLWVLTWG,Free,Free,Linear,L,None,Antimicrobial,44% hemolysis at 25µM,Human,20
+4174,HM3,AKKVFKRLGIGAVLWVLTWG,Free,Free,Linear,L,None,Antimicrobial,31% hemolysis at 12.5µM,Human,20
+4175,HM3,AKKVFKRLGIGAVLWVLTWG,Free,Free,Linear,L,None,Antimicrobial,12% hemolysis at 6.25µM,Human,20
+4176,HM3,AKKVFKRLGIGAVLWVLTWG,Free,Free,Linear,L,None,Antimicrobial,4% hemolysis at 3.12µM,Human,20
+4177,HM3,AKKVFKRLGIGAVLWVLTWG,Free,Free,Linear,L,None,Antimicrobial,0% hemolysis at 1.5µM,Human,20
+4178,HM4,AWKVFKRLGIGAVLWVLTWG,Free,Free,Linear,L,None,Antimicrobial,44% hemolysis at 25µM,Human,20
+4179,HM4,AWKVFKRLGIGAVLWVLTWG,Free,Free,Linear,L,None,Antimicrobial,43% hemolysis at 12.5µM,Human,20
+4180,HM4,AWKVFKRLGIGAVLWVLTWG,Free,Free,Linear,L,None,Antimicrobial,30% hemolysis at 6.25µM,Human,20
+4181,HM4,AWKVFKRLGIGAVLWVLTWG,Free,Free,Linear,L,None,Antimicrobial,29% hemolysis at 3.1µM,Human,20
+4182,HM4,AWKVFKRLGIGAVLWVLTWG,Free,Free,Linear,L,None,Antimicrobial,13% hemolysis at 1.5µM,Human,20
+4183,HM4,AWKVFKRLGIGAVLWVLTWG,Free,Free,Linear,L,None,Antimicrobial,0% hemolysis at 0.78µM,Human,20
+4184,HM5,AKKVFKRLGIGAVLKVLKKG,Free,Free,Linear,L,None,Antimicrobial,0% hemolysis upto 100µM,Human,20
+4189,HFU2,IWRIFR,Amidation,Free,Linear,L,None,Antimicrobial,MHC >256μM,Human,6
+4190,HFU3,IWRIFRRIF,Amidation,Free,Linear,L,None,Antimicrobial,MHC =101.4μM,Human,9
+4191,"[∆1,2]Mac",FGVLAKVAAHVVPAIAEHF,Amidation,Free,Linear,L,None,Antibacterial,0% hemolysis upto 100µM,Rabbit,19
+4192,P6_1,FKIKASKVLDKFGKIVGKVLKQLKKVSAVAKV,Free,Free,Linear,L,None,Hemolytic,LC50=12.6µM,Human,32
+4193,P6_2,FSISPGKVLDKFGKIVGKVLKQLKKVSAVAKV,Free,Free,Linear,L,None,Hemolytic,LC50=28.1µM,Human,31
